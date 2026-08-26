@@ -1,0 +1,18 @@
+{
+  "name": "Inoxtubi Padova - Magazzino Online",
+  "short_name": "Inoxtubi",
+  "description": "Consultazione giacenze magazzino in tempo reale e catalogo prodotti Inoxtubi Padova",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#032641",
+  "theme_color": "#032641",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/logo.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

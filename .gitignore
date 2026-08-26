@@ -1,0 +1,31 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Production build
+dist/
+dist-ssr/
+
+# Environment / Temp
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+temp_inspect/
+artico_test.xlsx
+*.log
+
+# Editor & OS
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Android / iOS local build caches
+android/.gradle
+android/app/build
+android/build
+ios/App/Pods
+ios/App/build

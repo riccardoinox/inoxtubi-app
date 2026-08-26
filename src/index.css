@@ -1,0 +1,61 @@
+@import "tailwindcss";
+
+@theme {
+  --color-inox-blue: #0477bf;
+  --color-inox-navy: #032641;
+  --color-inox-lightBlue: #068ee2;
+  --color-inox-sky: #e8f4fc;
+  --color-inox-steel: #52697a;
+  --color-inox-dark: #0e1e2c;
+  --color-inox-bg: #f6f8fb;
+  --color-inox-card: #ffffff;
+  --color-inox-green: #10b981;
+  --color-inox-greenDark: #059669;
+  --color-inox-orange: #f59e0b;
+  --color-inox-orangeDark: #d97706;
+  --color-inox-border: #e2e8f0;
+  
+  --font-sans: 'Inter', system-ui, sans-serif;
+  --font-display: 'Rubik', sans-serif;
+}
+
+:root {
+  --sat: env(safe-area-inset-top, 0px);
+  --sab: env(safe-area-inset-bottom, 0px);
+  --sal: env(safe-area-inset-left, 0px);
+  --sar: env(safe-area-inset-right, 0px);
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: var(--font-sans);
+  background-color: #f6f8fb;
+  color: #0e1e2c;
+  overflow-x: hidden;
+  -webkit-tap-highlight-color: transparent;
+}
+
+/* Custom scrollbars */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #f1f5f9;
+}
+::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #94a3b8;
+}
+
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
