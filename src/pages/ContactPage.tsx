@@ -6,8 +6,6 @@ import {
   Clock, 
   Building2, 
   Navigation, 
-  ShieldCheck, 
-  FileText,
   ExternalLink 
 } from 'lucide-react';
 
@@ -19,13 +17,13 @@ export const ContactPage: React.FC = () => {
       <div className="bg-gradient-to-r from-inox-navy via-slate-900 to-inox-blue rounded-3xl p-6 sm:p-8 text-white border border-inox-blue/30 shadow-xl">
         <div className="max-w-2xl">
           <span className="text-xs font-bold text-inox-lightBlue uppercase tracking-wider">
-            Contatti Diretti & Uffici
+            Contatti Diretti & Sede
           </span>
           <h1 className="font-display font-extrabold text-2xl sm:text-3xl text-white mt-1">
             Inoxtubi Padova s.r.l.
           </h1>
           <p className="text-xs sm:text-sm text-slate-300 mt-2 leading-relaxed">
-            Siamo a vostra completa disposizione per preventivi personalizzati, consulenza tecnica sulla scelta delle leghe inox e disponibilità in tempo reale.
+            Siamo a vostra completa disposizione per quotazioni personalizzate, consulenza tecnica sulla scelta delle leghe inox e disponibilità in tempo reale.
           </p>
         </div>
       </div>
@@ -42,13 +40,13 @@ export const ContactPage: React.FC = () => {
               <MapPin className="w-6 h-6" />
             </div>
             <div>
-              <h3 className="font-display font-bold text-sm text-inox-navy">Sede & Magazzino</h3>
+              <h3 className="font-display font-bold text-sm text-inox-navy">Sede Legale & Magazzino</h3>
               <p className="text-xs text-slate-600 mt-1 leading-relaxed">
-                Via dell'Artigianato, 12<br />
-                35010 Cadoneghe (PD) - Italia
+                Via Cesare Battisti, 5<br />
+                35010 Limena (PD) - Italia
               </p>
               <a
-                href="https://maps.google.com/?q=Inoxtubi+Padova+Cadoneghe"
+                href="https://maps.google.com/?q=Via+Cesare+Battisti+5+35010+Limena+PD"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="mt-3 inline-flex items-center text-xs font-bold text-inox-blue hover:text-inox-navy"
@@ -123,8 +121,8 @@ export const ContactPage: React.FC = () => {
           {/* Interactive Google Map Embed */}
           <div className="bg-white rounded-2xl border border-slate-200 overflow-hidden shadow-xs h-72 sm:h-96 relative">
             <iframe
-              title="Mappa Inoxtubi Padova"
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2797.9472392765876!2d11.8906669!3d45.4598155!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x477edae49c95b6c3%3A0x643bb670d588506!2sInoxtubi%20Padova%20Srl!5e0!3m2!1sit!2sit!4v1700000000000"
+              title="Mappa Inoxtubi Padova Limena"
+              src="https://maps.google.com/maps?q=Via+Cesare+Battisti+5,+35010+Limena+PD&t=&z=15&ie=UTF8&iwloc=&output=embed"
               width="100%"
               height="100%"
               style={{ border: 0 }}
@@ -142,9 +140,9 @@ export const ContactPage: React.FC = () => {
               <span>Dati Societari Inoxtubi Padova S.r.l.</span>
             </div>
             <p className="leading-relaxed">
-              <strong>Ragione Sociale:</strong> INOXTUBI PADOVA S.R.L. &bull; <strong>P.IVA / C.F.:</strong> 01047460281<br />
-              <strong>Sede Legale e Operativa:</strong> Via dell'Artigianato 12, 35010 Cadoneghe (PD)<br />
-              <strong>Capitale Sociale:</strong> € 100.000,00 i.v. &bull; <strong>R.E.A. Padova:</strong> 178550
+              <strong>Ragione Sociale:</strong> INOXTUBI PADOVA S.R.L.<br />
+              <strong>Sede Legale e Operativa:</strong> Via Cesare Battisti 5, 35010 Limena (PD)<br />
+              <strong>C.F. e P.IVA:</strong> 00864410287 &bull; <strong>R.E.A. Padova:</strong> PD-135890
             </p>
           </div>
 
