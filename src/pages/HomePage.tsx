@@ -39,8 +39,10 @@ export const HomePage: React.FC = () => {
   const productCategories = [
     { title: 'Tubi Tondi', filter: 'Tubi Tondi', desc: 'Saldati EFW/HF e senza saldatura AISI 304/316', icon: '⭕' },
     { title: 'Tubi Quadri / Rett.', filter: 'Tubi Quadri / Rett.', desc: 'Scatolati e profilati quadri e rettangolari', icon: '🔲' },
-    { title: 'Barre Inox', filter: 'Barre Tonde', desc: 'Tonde, quadre ed esagonali trafilate/pelate', icon: '📏' },
-    { title: 'Angolari & Piatti', filter: 'Angolari', desc: 'Angolari e piatti cesoiati e laminati', icon: '📐' },
+    { title: 'Barre Tonde', filter: 'Barre Tonde', desc: 'Barre tonde piene trafilate, pelate e rettificate', icon: '📏' },
+    { title: 'Barre Forate', filter: 'Barre Forate', desc: 'Tubi spessi e barre forate per meccanica', icon: '🔘' },
+    { title: 'Barre Quadre & Esag.', filter: 'Barre Quadre', desc: 'Barre quadre ed esagonali trafilate e laminate', icon: '📐' },
+    { title: 'Piatti & Angolari', filter: 'Piatti', desc: 'Piatti cesoiati/trafilati e profili angolari', icon: '📏' },
     { title: 'Lamiere Inox', filter: 'Lamiere', desc: 'A caldo e a freddo, finiture 2B, BA, satinate', icon: '📄' },
     { title: 'Raccorderia', filter: 'Raccorderia / Accessori', desc: 'Curve, flange, manicotti, riduzioni e tee', icon: '🔩' },
   ];
@@ -133,7 +135,7 @@ export const HomePage: React.FC = () => {
           </button>
         </div>
 
-        <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-3">
+        <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-3">
           {productCategories.map(cat => (
             <button
               key={cat.title}

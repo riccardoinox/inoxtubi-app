@@ -25,8 +25,9 @@ const CATEGORIES: CategoryFilter[] = [
   'Barre Tonde',
   'Barre Quadre',
   'Barre Esagonali',
+  'Barre Forate',
   'Piatti',
-  'Angolari',
+  'Angolari e Profili',
   'Lamiere',
   'Raccorderia / Accessori',
   'Acciai Speciali',
@@ -221,7 +222,7 @@ export const WarehousePage: React.FC = () => {
           <Search className="w-5 h-5 text-slate-400 absolute left-3.5 top-3" />
           <input
             type="text"
-            placeholder="Cerca per codice (es. ANG304, ACC14313, TUB316), descrizione, dimensioni..."
+            placeholder="Cerca per codice (es. ANG304, ACC14313, TUB316, BFO304), descrizione, dimensioni..."
             value={searchQuery}
             onChange={e => setSearchQuery(e.target.value)}
             className="w-full pl-11 pr-10 py-2.5 text-sm rounded-xl border border-slate-300 bg-slate-50 focus:bg-white focus:outline-none focus:border-inox-blue focus:ring-2 focus:ring-inox-blue/20 transition-all font-medium text-slate-800"

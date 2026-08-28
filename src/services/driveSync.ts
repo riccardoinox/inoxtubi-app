@@ -4,7 +4,7 @@ import { Article, InventoryDataset } from '../types/inventory';
 
 const initialStock = initialStockRaw as InventoryDataset;
 
-const CACHE_KEY = 'inoxtubi_inventory_cache_v1';
+const CACHE_KEY = 'inoxtubi_inventory_cache_v2';
 const LAST_SYNC_KEY = 'inoxtubi_last_sync_time';
 
 export const GOOGLE_DRIVE_EXPORT_URL = 
@@ -13,44 +13,106 @@ export const GOOGLE_DRIVE_EXPORT_URL =
 export const GOOGLE_DRIVE_VIEW_URL = 
   'https://docs.google.com/spreadsheets/d/1hA1YbhFD-8RXD62CfifHBwucvfUBD33R/edit?usp=drive_link';
 
-function detectCategory(code: string, desc: string): string {
-  const codeU = code.toUpperCase();
-  const descU = desc.toUpperCase();
+export function detectCategory(code: string, desc: string): string {
+  const c = code.toUpperCase().trim();
+  const d = desc.toUpperCase().trim();
 
-  if (codeU.includes('TUB') || codeU.includes('TT') || codeU.includes('TQ') || codeU.includes('TR') || descU.includes('TUBO') || descU.includes('TUBI')) {
-    if (descU.includes('QUAD') || descU.includes('RETT') || codeU.includes('TQ') || codeU.includes('TR') || descU.includes('RET')) {
-      return 'Tubi Quadri / Rett.';
-    }
-    return 'Tubi Tondi';
+  // 1. Non Utilizzare / Bancali / Servizi
+  if (d === 'NON UTILIZZARE' || c.startsWith('BANC') || c.startsWith('CASSA') || c.startsWith('ESTINTORI') || c === 'B' || c === 'D') {
+    return 'Altri Prodotti';
   }
-  if (codeU.includes('ANG') || descU.includes('ANGOL')) {
-    return 'Angolari';
-  }
-  if (codeU.includes('BAR') || descU.includes('TOND') || descU.includes('BARRA') || descU.includes('BARRE')) {
-    if (descU.includes('QUADR') || codeU.includes('BQ')) {
-      return 'Barre Quadre';
-    }
-    if (descU.includes('ESAG') || descU.includes('ES.')) {
-      return 'Barre Esagonali';
-    }
-    return 'Barre Tonde';
-  }
-  if (descU.includes('PIAT') || codeU.includes('PIAT') || descU.includes('PIATT')) {
-    return 'Piatti';
-  }
-  if (descU.includes('LAM') || codeU.includes('LAM') || descU.includes('LAMIER')) {
-    return 'Lamiere';
-  }
-  if (['CURV', 'RACC', 'MANIC', 'NIPP', 'TEE', 'FLANG', 'RIDUZ', 'VALV', 'GHIER', 'BOCCH'].some(k => descU.includes(k))) {
+
+  // 2. Raccorderia e Accessori
+  const raccKeywords = [
+    'REGGITUBO', 'CURVE', 'CURVA', 'RIDUZ', 'PEZZO T', 'FLANGIA', 'CARTELLE', 'CARTELLA',
+    'FONDO BOMBATO', 'TRONCHETTO', 'MANICOTTO', 'GOMITO', 'NIPPLO', 'TAPPO', 'GIUNTO',
+    'VALVOLA', 'BOCCHETTONE', 'GHIERA', 'COLLARE', 'MORSETTO', 'CROCE', 'PORTAGOMMA',
+    'BOCCHOLA', 'VITE', 'BULLON', 'DADO', 'RACCORD', 'FEMMINA MANDR', 'MASCHIO MANDR'
+  ];
+  if (raccKeywords.some(k => d.includes(k))) {
     return 'Raccorderia / Accessori';
   }
-  if (codeU.includes('ACC') || descU.includes('ACCIAO')) {
+  if (c.startsWith('CSS') || c.startsWith('TES') || c.startsWith('RC') || c.startsWith('TRO') || 
+      c.startsWith('MAN') || c.startsWith('GOM') || c.startsWith('RF') || c.startsWith('CAR') || 
+      c.startsWith('FB') || c.startsWith('NIP') || c.startsWith('TM') || c.startsWith('TF') || 
+      c.startsWith('REG') || c.startsWith('FLA') || c.startsWith('FLG') || c.startsWith('VALV') || 
+      c.startsWith('BOC') || c.startsWith('G3P') || c.startsWith('FEM')) {
+    return 'Raccorderia / Accessori';
+  }
+
+  // 3. Barre Forate (Tubi spessi / forati)
+  if (c.startsWith('BF') || d.includes('BARRA FORATA') || d.includes('BARRE FORATE')) {
+    return 'Barre Forate';
+  }
+
+  // 4. Lamiere, Nastri, Dischi, Piastre da lamiera
+  if (d.startsWith('LAM.') || d.startsWith('LAMIERA') || d.startsWith('NASTRO') || 
+      d.startsWith('PIASTRA') || d.startsWith('DISCO') || d.startsWith('ANELLO') || 
+      d.startsWith('PZ. LAM') || d.includes('LAMIER') || d.includes('MANDORLAT') || 
+      c.startsWith('LE') || c.startsWith('LS') || c.startsWith('LSB') || c.startsWith('LSP') || 
+      c.startsWith('LR') || c.startsWith('LFO') || c.startsWith('NASTRO') || 
+      c.startsWith('PIASTRA') || c.startsWith('DIS') || c.startsWith('ANELLO') || c.startsWith('TAGLAM')) {
+    return 'Lamiere';
+  }
+
+  // 5. Acciai Speciali
+  if (c.startsWith('ACC') || c.startsWith('C45') || (d.startsWith('ACCIAO') && d.includes('1.4313'))) {
     return 'Acciai Speciali';
   }
+
+  // 6. Angolari e Profili
+  if (c.startsWith('ANG') || c.startsWith('PRO') || d.startsWith('ANG') || d.includes('ANGOLAR') || d.includes('PROFILO ')) {
+    return 'Angolari e Profili';
+  }
+
+  // 7. Piatti (Barre Piatte, Cesoiate, Trafilate o Laminate Piatte)
+  if (c.startsWith('BCE') || c.startsWith('BCA') || c.startsWith('BLP') || c.startsWith('BTP') || 
+      c.startsWith('PIAT') || d.startsWith('PIAT') || d.includes('PIATTO') || d.includes('PIATTI') || 
+      d.includes(' CES.') || d.includes(' CESOIAT')) {
+    return 'Piatti';
+  }
+
+  // 8. Barre Esagonali
+  if (c.startsWith('BTES') || c.startsWith('BLES') || c.startsWith('BRES') || c.startsWith('BES') || 
+      c.startsWith('TSES') || d.includes('ESAG') || d.includes('ES.')) {
+    return 'Barre Esagonali';
+  }
+
+  // 9. Barre Quadre (BTQ, BLQ, BQ)
+  if (c.startsWith('BTQ') || c.startsWith('BLQ') || c.startsWith('BQ') || 
+      (d.includes('BARRA') && (d.includes('QUADR') || d.includes('QUAD.')))) {
+    return 'Barre Quadre';
+  }
+
+  // 10. Barre Tonde (BTT, BLT, BRT, BTI, AVP)
+  if (c.startsWith('BTT') || c.startsWith('BLT') || c.startsWith('BRT') || c.startsWith('BTI') || c.startsWith('AVP') || 
+      d.startsWith('BARRA') || d.startsWith('BARRE') || d.includes('TONDO')) {
+    return 'Barre Tonde';
+  }
+
+  // 11. Tubi Quadri e Rettangolari
+  if (c.startsWith('TER') || c.startsWith('TEQ') || c.startsWith('TSAQ') || c.startsWith('TSAR') || 
+      c.startsWith('TLQ') || c.startsWith('TLR') || c.startsWith('TEQJ') || c.startsWith('TERJ') || 
+      c.startsWith('TSAQJ') || c.startsWith('TEO') || c.startsWith('TQ') || c.startsWith('TR') || 
+      ((d.includes('TUBO') || d.includes('TUBI')) && (d.includes('QUAD') || d.includes('RETT') || d.includes('SCATOL') || d.includes('OVALE') || d.includes('RET.')))) {
+    return 'Tubi Quadri / Rett.';
+  }
+
+  // 12. Tubi Tondi
+  if (d.includes('TUBO') || d.includes('TUBI') || 
+      c.startsWith('TET') || c.startsWith('TSS') || c.startsWith('TRI') || c.startsWith('TLE') || 
+      c.startsWith('TLIE') || c.startsWith('TSAT') || c.startsWith('TEF') || c.startsWith('TETJ') || 
+      c.startsWith('TLI') || c.startsWith('TUB') || c.startsWith('TEMLUC') || c.startsWith('TEL') || 
+      c.startsWith('TETT') || c.startsWith('TFER') || c.startsWith('TUBCENTR') || c.startsWith('TUBLAM') || 
+      c.startsWith('TT') || c.startsWith('TA') || c.startsWith('TTC') || c.startsWith('TIS') || 
+      c.startsWith('TCAP') || c.startsWith('TC')) {
+    return 'Tubi Tondi';
+  }
+
   return 'Altri Prodotti';
 }
 
-function detectAlloy(code: string, desc: string): string {
+export function detectAlloy(code: string, desc: string): string {
   const combined = `${code} ${desc}`.toUpperCase();
   if (combined.includes('316L') || combined.includes('316 L')) return 'AISI 316L';
   if (combined.includes('316')) return 'AISI 316';
@@ -143,7 +205,6 @@ export function saveInventoryToCache(dataset: InventoryDataset): void {
 }
 
 export async function fetchLiveStockFromDrive(): Promise<InventoryDataset> {
-  // Direct export URL with CORS proxy fallback if needed
   const urlsToTry = [
     GOOGLE_DRIVE_EXPORT_URL,
     `https://api.allorigins.win/raw?url=${encodeURIComponent(GOOGLE_DRIVE_EXPORT_URL)}`,
