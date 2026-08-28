@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-28T11:55:00.000Z",
-  "totalCount": 4772,
-  "availableCount": 1461,
+  "updatedAt": "2026-08-28T12:10:00.000Z",
+  "totalCount": 4704,
+  "availableCount": 1441,
   "sourceUrl": "https://docs.google.com/spreadsheets/d/1hA1YbhFD-8RXD62CfifHBwucvfUBD33R/edit?usp=drive_link",
   "articles": [
     {
@@ -727,105 +727,6 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Tonde",
-      "alloy": "Inox / Altro",
-      "altCode": ""
-    },
-    {
-      "id": "B",
-      "code": "B",
-      "desc": "Bancali accreditati all'80% del valore",
-      "um": "PZ",
-      "disp": 0.0,
-      "isAvailable": false,
-      "category": "Altri Prodotti",
-      "alloy": "Inox / Altro",
-      "altCode": ""
-    },
-    {
-      "id": "BANC",
-      "code": "BANC",
-      "desc": "BANCALE IN LEGNO IN ADD.TO",
-      "um": "PZ",
-      "disp": 8774.0,
-      "isAvailable": true,
-      "category": "Altri Prodotti",
-      "alloy": "Inox / Altro",
-      "altCode": ""
-    },
-    {
-      "id": "BANC1000",
-      "code": "BANC1000",
-      "desc": "BANCALE IN LEGNO H. 1000",
-      "um": "PZ",
-      "disp": 8486.0,
-      "isAvailable": true,
-      "category": "Altri Prodotti",
-      "alloy": "Inox / Altro",
-      "altCode": ""
-    },
-    {
-      "id": "BANC1000X4000",
-      "code": "BANC1000X4000",
-      "desc": "BANCALE IN LEGNO H. 1000X4000",
-      "um": "PZ",
-      "disp": -14.0,
-      "isAvailable": false,
-      "category": "Altri Prodotti",
-      "alloy": "Inox / Altro",
-      "altCode": ""
-    },
-    {
-      "id": "BANC1250",
-      "code": "BANC1250",
-      "desc": "BANCALE IN LEGNO H. 1250",
-      "um": "PZ",
-      "disp": 8555.0,
-      "isAvailable": true,
-      "category": "Altri Prodotti",
-      "alloy": "Inox / Altro",
-      "altCode": ""
-    },
-    {
-      "id": "BANC1500",
-      "code": "BANC1500",
-      "desc": "BANCALE IN LEGNO H. 1500",
-      "um": "PZ",
-      "disp": 4072.5,
-      "isAvailable": true,
-      "category": "Altri Prodotti",
-      "alloy": "Inox / Altro",
-      "altCode": ""
-    },
-    {
-      "id": "BANC1500X4000",
-      "code": "BANC1500X4000",
-      "desc": "BANCALE IN LEGNO H. 1500X4000",
-      "um": "PZ",
-      "disp": -37.0,
-      "isAvailable": false,
-      "category": "Altri Prodotti",
-      "alloy": "Inox / Altro",
-      "altCode": ""
-    },
-    {
-      "id": "BANC2000",
-      "code": "BANC2000",
-      "desc": "BANCALE IN LEGNO H. 2000",
-      "um": "PZ",
-      "disp": 9941.0,
-      "isAvailable": true,
-      "category": "Altri Prodotti",
-      "alloy": "Inox / Altro",
-      "altCode": ""
-    },
-    {
-      "id": "BANC2000X4000",
-      "code": "BANC2000X4000",
-      "desc": "BANCALE IN LEGNO H. 2000X4000",
-      "um": "PZ",
-      "disp": -16.0,
-      "isAvailable": false,
-      "category": "Altri Prodotti",
       "alloy": "Inox / Altro",
       "altCode": ""
     },
@@ -8761,17 +8662,6 @@
       "altCode": "100 X 100"
     },
     {
-      "id": "BLT",
-      "code": "BLT",
-      "desc": "NON UTILIZZARE",
-      "um": "KG",
-      "disp": 0.0,
-      "isAvailable": false,
-      "category": "Altri Prodotti",
-      "alloy": "Inox / Altro",
-      "altCode": ""
-    },
-    {
       "id": "BLT303",
       "code": "BLT303",
       "desc": "BARRA ACC. AISI 303 LAM.",
@@ -16373,17 +16263,6 @@
       "altCode": ""
     },
     {
-      "id": "CASSA",
-      "code": "CASSA",
-      "desc": "CASSA IN LEGNO",
-      "um": "PZ",
-      "disp": 0.0,
-      "isAvailable": false,
-      "category": "Altri Prodotti",
-      "alloy": "Inox / Altro",
-      "altCode": ""
-    },
-    {
       "id": "CSS304",
       "code": "CSS304",
       "desc": "CURVE ACC. AISI 304 S/S",
@@ -17308,17 +17187,6 @@
       "altCode": "30 X 2"
     },
     {
-      "id": "CUR2304-033,70X1,5",
-      "code": "CUR2304-033,70X1,5",
-      "desc": "NON UTILIZZARE",
-      "um": "PZ",
-      "disp": 0.0,
-      "isAvailable": false,
-      "category": "Altri Prodotti",
-      "alloy": "AISI 304",
-      "altCode": ""
-    },
-    {
       "id": "CUR2304-033,70X2,0",
       "code": "CUR2304-033,70X2,0",
       "desc": "CURVE EL. ACC. AISI 304 90°",
@@ -17623,17 +17491,6 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Raccorderia / Accessori",
-      "alloy": "AISI 304",
-      "altCode": ""
-    },
-    {
-      "id": "CUR2304-45°30",
-      "code": "CUR2304-45°30",
-      "desc": "NON UTILIZZARE",
-      "um": "PZ",
-      "disp": 0.0,
-      "isAvailable": false,
-      "category": "Altri Prodotti",
       "alloy": "AISI 304",
       "altCode": ""
     },
@@ -18562,17 +18419,6 @@
       "altCode": "60 X 1,5"
     },
     {
-      "id": "D",
-      "code": "D",
-      "desc": "",
-      "um": "PZ",
-      "disp": 38097.08,
-      "isAvailable": true,
-      "category": "Altri Prodotti",
-      "alloy": "Inox / Altro",
-      "altCode": ""
-    },
-    {
       "id": "DIS304-KG",
       "code": "DIS304-KG",
       "desc": "DISCO TAGL. DA LAM. ACC. AISI 304",
@@ -18636,17 +18482,6 @@
       "isAvailable": false,
       "category": "Lamiere",
       "alloy": "AISI 316",
-      "altCode": ""
-    },
-    {
-      "id": "ESTINTORI",
-      "code": "ESTINTORI",
-      "desc": "ESTINTORI A POLVERE",
-      "um": "PZ",
-      "disp": 0.0,
-      "isAvailable": false,
-      "category": "Altri Prodotti",
-      "alloy": "Inox / Altro",
       "altCode": ""
     },
     {
@@ -23039,270 +22874,6 @@
       "altCode": "4,0 X 1500 X 3000"
     },
     {
-      "id": "L430-",
-      "code": "L430-",
-      "desc": "LAM. ACC. AISI 430",
-      "um": "KG",
-      "disp": 0.0,
-      "isAvailable": false,
-      "category": "Lamiere",
-      "alloy": "AISI 430",
-      "altCode": ""
-    },
-    {
-      "id": "L430-0,6X1000X2000",
-      "code": "L430-0,6X1000X2000",
-      "desc": "NON UTILIZZARE",
-      "um": "KG",
-      "disp": 0.0,
-      "isAvailable": false,
-      "category": "Altri Prodotti",
-      "alloy": "AISI 430",
-      "altCode": "0,6 X 1000 X 2000"
-    },
-    {
-      "id": "L430-0,8X1000X2000",
-      "code": "L430-0,8X1000X2000",
-      "desc": "NON UTILIZZARE",
-      "um": "KG",
-      "disp": 0.0,
-      "isAvailable": false,
-      "category": "Altri Prodotti",
-      "alloy": "AISI 430",
-      "altCode": "0,8 X 1000 X 2000"
-    },
-    {
-      "id": "L430-0,8X1500X3000",
-      "code": "L430-0,8X1500X3000",
-      "desc": "NON UTILIZZARE",
-      "um": "KG",
-      "disp": 0.0,
-      "isAvailable": false,
-      "category": "Altri Prodotti",
-      "alloy": "AISI 430",
-      "altCode": "0,8 X 1500 X 3000"
-    },
-    {
-      "id": "L430-0,8X1500X4000",
-      "code": "L430-0,8X1500X4000",
-      "desc": "NON UTILIZZARE",
-      "um": "KG",
-      "disp": 0.0,
-      "isAvailable": false,
-      "category": "Altri Prodotti",
-      "alloy": "AISI 430",
-      "altCode": "0,8 X 1500 X 4000"
-    },
-    {
-      "id": "L430-1,2X1000X2000",
-      "code": "L430-1,2X1000X2000",
-      "desc": "NON UTILIZZARE",
-      "um": "KG",
-      "disp": 0.0,
-      "isAvailable": false,
-      "category": "Altri Prodotti",
-      "alloy": "AISI 430",
-      "altCode": "1,2 X 1000 X 2000"
-    },
-    {
-      "id": "L430-1,2X1250X2500",
-      "code": "L430-1,2X1250X2500",
-      "desc": "NON UTILIZZARE",
-      "um": "KG",
-      "disp": 0.0,
-      "isAvailable": false,
-      "category": "Altri Prodotti",
-      "alloy": "AISI 430",
-      "altCode": "1,2 X 1250 X 2500"
-    },
-    {
-      "id": "L430-1,2X1500X3000",
-      "code": "L430-1,2X1500X3000",
-      "desc": "NON UTILIZZARE",
-      "um": "KG",
-      "disp": 0.0,
-      "isAvailable": false,
-      "category": "Altri Prodotti",
-      "alloy": "AISI 430",
-      "altCode": "1,2 X 1500 X 3000"
-    },
-    {
-      "id": "L430-1,5X1000X2000",
-      "code": "L430-1,5X1000X2000",
-      "desc": "NON UTILIZZARE",
-      "um": "KG",
-      "disp": 0.0,
-      "isAvailable": false,
-      "category": "Altri Prodotti",
-      "alloy": "AISI 430",
-      "altCode": "1,5 X 1000 X 2000"
-    },
-    {
-      "id": "L430-1,5X1000X3000",
-      "code": "L430-1,5X1000X3000",
-      "desc": "NON UTILIZZARE",
-      "um": "KG",
-      "disp": 0.0,
-      "isAvailable": false,
-      "category": "Altri Prodotti",
-      "alloy": "AISI 430",
-      "altCode": "1,5 X 1000 X 3000"
-    },
-    {
-      "id": "L430-1,5X1250X2500",
-      "code": "L430-1,5X1250X2500",
-      "desc": "NON UTILIZZARE",
-      "um": "KG",
-      "disp": 0.0,
-      "isAvailable": false,
-      "category": "Altri Prodotti",
-      "alloy": "AISI 430",
-      "altCode": "1,5 X 1250 X 2500"
-    },
-    {
-      "id": "L430-1,5X1500X3000",
-      "code": "L430-1,5X1500X3000",
-      "desc": "NON UTILIZZARE",
-      "um": "KG",
-      "disp": 0.0,
-      "isAvailable": false,
-      "category": "Altri Prodotti",
-      "alloy": "AISI 430",
-      "altCode": "1,5 X 1500 X 3000"
-    },
-    {
-      "id": "L430-1X1000X2000",
-      "code": "L430-1X1000X2000",
-      "desc": "NON UTILIZZARE",
-      "um": "KG",
-      "disp": 0.0,
-      "isAvailable": false,
-      "category": "Altri Prodotti",
-      "alloy": "AISI 430",
-      "altCode": "1,0 X 1000 X 2000"
-    },
-    {
-      "id": "L430-1X1250X2500",
-      "code": "L430-1X1250X2500",
-      "desc": "NON UTILIZZARE",
-      "um": "KG",
-      "disp": 0.0,
-      "isAvailable": false,
-      "category": "Altri Prodotti",
-      "alloy": "AISI 430",
-      "altCode": "1,0 X 1250 X 2500"
-    },
-    {
-      "id": "L430-1X1500X3000",
-      "code": "L430-1X1500X3000",
-      "desc": "NON UTILIZZARE",
-      "um": "KG",
-      "disp": 0.0,
-      "isAvailable": false,
-      "category": "Altri Prodotti",
-      "alloy": "AISI 430",
-      "altCode": "1,0 X 1500 X 3000"
-    },
-    {
-      "id": "L430-1X1500X3500",
-      "code": "L430-1X1500X3500",
-      "desc": "NON UTILIZZARE",
-      "um": "KG",
-      "disp": 0.0,
-      "isAvailable": false,
-      "category": "Altri Prodotti",
-      "alloy": "AISI 430",
-      "altCode": "1,0 X 1500 X 3500"
-    },
-    {
-      "id": "L430-2,0X1000X2000",
-      "code": "L430-2,0X1000X2000",
-      "desc": "NON UTILIZZARE",
-      "um": "KG",
-      "disp": 0.0,
-      "isAvailable": false,
-      "category": "Altri Prodotti",
-      "alloy": "AISI 430",
-      "altCode": "2,0 X 1000 X 2000"
-    },
-    {
-      "id": "L430-2,0X1250X2500",
-      "code": "L430-2,0X1250X2500",
-      "desc": "NON UTILIZZARE",
-      "um": "KG",
-      "disp": 0.0,
-      "isAvailable": false,
-      "category": "Altri Prodotti",
-      "alloy": "AISI 430",
-      "altCode": "2,0 X 1250 X 2500"
-    },
-    {
-      "id": "L430-2,0X1500X3000",
-      "code": "L430-2,0X1500X3000",
-      "desc": "NON UTILIZZARE",
-      "um": "KG",
-      "disp": 0.0,
-      "isAvailable": false,
-      "category": "Altri Prodotti",
-      "alloy": "AISI 430",
-      "altCode": "2,0 X 1500 X 3000"
-    },
-    {
-      "id": "L430-3,0X1000X2000",
-      "code": "L430-3,0X1000X2000",
-      "desc": "NON UTILIZZARE",
-      "um": "KG",
-      "disp": 0.0,
-      "isAvailable": false,
-      "category": "Altri Prodotti",
-      "alloy": "AISI 430",
-      "altCode": "3,0 X 1000 X 2000"
-    },
-    {
-      "id": "L430-3,0X1250X2500",
-      "code": "L430-3,0X1250X2500",
-      "desc": "NON UTILIZZARE",
-      "um": "KG",
-      "disp": 0.0,
-      "isAvailable": false,
-      "category": "Altri Prodotti",
-      "alloy": "AISI 430",
-      "altCode": "3,0 X 1250 X 2500"
-    },
-    {
-      "id": "L430-3,0X1500X3000",
-      "code": "L430-3,0X1500X3000",
-      "desc": "NON UTILIZZARE",
-      "um": "KG",
-      "disp": 0.0,
-      "isAvailable": false,
-      "category": "Altri Prodotti",
-      "alloy": "AISI 430",
-      "altCode": "3,0 X 1500 X 3000"
-    },
-    {
-      "id": "L4302X1000X2000",
-      "code": "L4302X1000X2000",
-      "desc": "NON UTILIZZARE",
-      "um": "KG",
-      "disp": 0.0,
-      "isAvailable": false,
-      "category": "Altri Prodotti",
-      "alloy": "AISI 430",
-      "altCode": "2,0 X 1000 X 2000"
-    },
-    {
-      "id": "L4302X1500X3000",
-      "code": "L4302X1500X3000",
-      "desc": "NON UTILIZZARE",
-      "um": "KG",
-      "disp": 0.0,
-      "isAvailable": false,
-      "category": "Altri Prodotti",
-      "alloy": "AISI 430",
-      "altCode": "2,0 X 1500 X 3000"
-    },
-    {
       "id": "LAM.UTEN.",
       "code": "LAM.UTEN.",
       "desc": "LAM. IN ACC. UTENSILE",
@@ -23378,17 +22949,6 @@
       "category": "Lamiere",
       "alloy": "AISI 304",
       "altCode": ""
-    },
-    {
-      "id": "LBA304,15X1250X300",
-      "code": "LBA304,15X1250X300",
-      "desc": "NON UTILIZZARE",
-      "um": "KG",
-      "disp": 0.0,
-      "isAvailable": false,
-      "category": "Altri Prodotti",
-      "alloy": "AISI 304",
-      "altCode": "1,5 X 1250 X 3000"
     },
     {
       "id": "LBA3040,4X1000X200",
@@ -23710,17 +23270,6 @@
       "altCode": "1,2 X 1500 X 4000"
     },
     {
-      "id": "LBA3041,2X2000X100",
-      "code": "LBA3041,2X2000X100",
-      "desc": "NON UTILIZZARE",
-      "um": "KG",
-      "disp": 0.0,
-      "isAvailable": false,
-      "category": "Altri Prodotti",
-      "alloy": "AISI 304",
-      "altCode": "1,2 X 1000 X 2000"
-    },
-    {
       "id": "LBA3041,5X1000X200",
       "code": "LBA3041,5X1000X200",
       "desc": "LAM. ACC. AISI 304 BA + PVC",
@@ -23785,17 +23334,6 @@
       "category": "Lamiere",
       "alloy": "AISI 304",
       "altCode": "1,5 X 1500 X 4000"
-    },
-    {
-      "id": "LBA3041,5X200X1000",
-      "code": "LBA3041,5X200X1000",
-      "desc": "NON UTILIZZARE",
-      "um": "KG",
-      "disp": 0.0,
-      "isAvailable": false,
-      "category": "Altri Prodotti",
-      "alloy": "AISI 304",
-      "altCode": "1,5 X 1000 X 2000"
     },
     {
       "id": "LBA3041,5X300X1500",
@@ -25525,28 +25063,6 @@
       "altCode": "6,0 X 1500 X 3000"
     },
     {
-      "id": "LEGGE136/2010",
-      "code": "LEGGE136/2010",
-      "desc": "\"AI SENSI DELL'ART. 3 LEGGE 136/2010 \"",
-      "um": "PZ",
-      "disp": 497.0,
-      "isAvailable": true,
-      "category": "Lamiere",
-      "alloy": "Inox / Altro",
-      "altCode": ""
-    },
-    {
-      "id": "LEGGE258/2010",
-      "code": "LEGGE258/2010",
-      "desc": "MATERIALE CONFORME AL DL NR.258-21/12/10",
-      "um": "PZ",
-      "disp": 500.0,
-      "isAvailable": true,
-      "category": "Lamiere",
-      "alloy": "Inox / Altro",
-      "altCode": ""
-    },
-    {
       "id": "LFER0,7X1500X3000",
       "code": "LFER0,7X1500X3000",
       "desc": "LAM. IN FERRO ZINCATA",
@@ -27032,17 +26548,6 @@
       "altCode": "2,5 X 1500 X 3000"
     },
     {
-      "id": "LSA316",
-      "code": "LSA316",
-      "desc": "NON UTILIZZARE",
-      "um": "KG",
-      "disp": 0.0,
-      "isAvailable": false,
-      "category": "Altri Prodotti",
-      "alloy": "AISI 316",
-      "altCode": ""
-    },
-    {
       "id": "LSB304",
       "code": "LSB304",
       "desc": "LAM. ACC. AISI 304 SB + PVC",
@@ -28495,17 +28000,6 @@
       "altCode": ""
     },
     {
-      "id": "MATD",
-      "code": "MATD",
-      "desc": "MATERIALE DECL. SPEZZONI E ROTTAMI",
-      "um": "KG",
-      "disp": 0.0,
-      "isAvailable": false,
-      "category": "Altri Prodotti",
-      "alloy": "Inox / Altro",
-      "altCode": ""
-    },
-    {
       "id": "NASTRO304",
       "code": "NASTRO304",
       "desc": "NASTRO ACC. AISI 304 2B",
@@ -29606,17 +29100,6 @@
       "altCode": "30 X 60 X 30 X 5"
     },
     {
-      "id": "PRO304-030X60X03",
-      "code": "PRO304-030X60X03",
-      "desc": "NON UTILIZZARE",
-      "um": "KG",
-      "disp": 0.0,
-      "isAvailable": false,
-      "category": "Altri Prodotti",
-      "alloy": "AISI 304",
-      "altCode": "30 X 60 X 30 X 3"
-    },
-    {
       "id": "PRO304-040X020X03",
       "code": "PRO304-040X020X03",
       "desc": "PROFILO L  ACC. AISI 304",
@@ -29912,17 +29395,6 @@
       "category": "Angolari e Profili",
       "alloy": "AISI 316",
       "altCode": "200 X 100 X 12"
-    },
-    {
-      "id": "PROVA",
-      "code": "PROVA",
-      "desc": "PROVA U.M",
-      "um": "MT",
-      "disp": 0.0,
-      "isAvailable": false,
-      "category": "Angolari e Profili",
-      "alloy": "Inox / Altro",
-      "altCode": ""
     },
     {
       "id": "RACC304-",
@@ -30563,17 +30035,6 @@
       "altCode": "219,1 X 168,3 X 2"
     },
     {
-      "id": "RC304-060,3X033,7",
-      "code": "RC304-060,3X033,7",
-      "desc": "NON UTILIZZARE",
-      "um": "PZ",
-      "disp": 0.0,
-      "isAvailable": false,
-      "category": "Altri Prodotti",
-      "alloy": "AISI 304",
-      "altCode": ""
-    },
-    {
       "id": "RC3304-",
       "code": "RC3304-",
       "desc": "RIDUZ. CONC. AISI 304 SP. 3",
@@ -31212,17 +30673,6 @@
       "altCode": "33,4 X 21,3"
     },
     {
-      "id": "RCSS30460,3X042,2",
-      "code": "RCSS30460,3X042,2",
-      "desc": "NON UTILIZZARE",
-      "um": "PZ",
-      "disp": 0.0,
-      "isAvailable": false,
-      "category": "Altri Prodotti",
-      "alloy": "AISI 304",
-      "altCode": "60,3 X 42,2"
-    },
-    {
       "id": "RCSS316-",
       "code": "RCSS316-",
       "desc": "RIDUZ. CONC. S/S B16.9 AISI 316",
@@ -31340,17 +30790,6 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Raccorderia / Accessori",
-      "alloy": "AISI 304",
-      "altCode": ""
-    },
-    {
-      "id": "REC2304-114,3X88,9",
-      "code": "REC2304-114,3X88,9",
-      "desc": "NON UTILIZZARE",
-      "um": "PZ",
-      "disp": 0.0,
-      "isAvailable": false,
-      "category": "Altri Prodotti",
       "alloy": "AISI 304",
       "altCode": ""
     },
@@ -31826,160 +31265,6 @@
       "category": "Raccorderia / Accessori",
       "alloy": "AISI 316",
       "altCode": "76,1 - 60,3"
-    },
-    {
-      "id": "SCONTO_SPESE_GEST",
-      "code": "SCONTO_SPESE_GEST",
-      "desc": "SCONTO SPESE GESTIONE ORDINE",
-      "um": "PZ",
-      "disp": 9992.0,
-      "isAvailable": true,
-      "category": "Altri Prodotti",
-      "alloy": "Inox / Altro",
-      "altCode": ""
-    },
-    {
-      "id": "SCONTO_TRASP",
-      "code": "SCONTO_TRASP",
-      "desc": "***SPESE TRASPORTO***",
-      "um": "PZ",
-      "disp": 9612.0,
-      "isAvailable": true,
-      "category": "Altri Prodotti",
-      "alloy": "Inox / Altro",
-      "altCode": ""
-    },
-    {
-      "id": "SPECER",
-      "code": "SPECER",
-      "desc": "SPESA CERTIFICATO",
-      "um": "PZ",
-      "disp": -5495.0,
-      "isAvailable": false,
-      "category": "Altri Prodotti",
-      "alloy": "Inox / Altro",
-      "altCode": ""
-    },
-    {
-      "id": "SPESE_IMBALLAGGIO",
-      "code": "SPESE_IMBALLAGGIO",
-      "desc": "SPESE IMBALLAGGIO",
-      "um": "PZ",
-      "disp": -73.0,
-      "isAvailable": false,
-      "category": "Altri Prodotti",
-      "alloy": "Inox / Altro",
-      "altCode": ""
-    },
-    {
-      "id": "SPETAG",
-      "code": "SPETAG",
-      "desc": "SPESA TAGLIO",
-      "um": "PZ",
-      "disp": 9575.5,
-      "isAvailable": true,
-      "category": "Altri Prodotti",
-      "alloy": "Inox / Altro",
-      "altCode": ""
-    },
-    {
-      "id": "SPETAG00006000",
-      "code": "SPETAG00006000",
-      "desc": "SPESA TAGLIO",
-      "um": "PZ",
-      "disp": 9918.0,
-      "isAvailable": true,
-      "category": "Altri Prodotti",
-      "alloy": "Inox / Altro",
-      "altCode": "3,10"
-    },
-    {
-      "id": "SPETAG00008000",
-      "code": "SPETAG00008000",
-      "desc": "SPESA TAGLIO",
-      "um": "PZ",
-      "disp": 9890.0,
-      "isAvailable": true,
-      "category": "Altri Prodotti",
-      "alloy": "Inox / Altro",
-      "altCode": "4,13"
-    },
-    {
-      "id": "SPETAG00010000",
-      "code": "SPETAG00010000",
-      "desc": "SPESA TAGLIO",
-      "um": "PZ",
-      "disp": 9350.0,
-      "isAvailable": true,
-      "category": "Altri Prodotti",
-      "alloy": "Inox / Altro",
-      "altCode": "5,50"
-    },
-    {
-      "id": "SPETAG00012000",
-      "code": "SPETAG00012000",
-      "desc": "SPESA TAGLIO",
-      "um": "PZ",
-      "disp": 9911.0,
-      "isAvailable": true,
-      "category": "Altri Prodotti",
-      "alloy": "Inox / Altro",
-      "altCode": "6,20"
-    },
-    {
-      "id": "SPETAG00013000",
-      "code": "SPETAG00013000",
-      "desc": "SPESA TAGLIO",
-      "um": "PZ",
-      "disp": 9477.0,
-      "isAvailable": true,
-      "category": "Altri Prodotti",
-      "alloy": "Inox / Altro",
-      "altCode": "7,00"
-    },
-    {
-      "id": "SPETAG00016000",
-      "code": "SPETAG00016000",
-      "desc": "SPESA TAGLIO",
-      "um": "PZ",
-      "disp": 9356.0,
-      "isAvailable": true,
-      "category": "Altri Prodotti",
-      "alloy": "Inox / Altro",
-      "altCode": "8,50"
-    },
-    {
-      "id": "SPETAG00020000",
-      "code": "SPETAG00020000",
-      "desc": "SPESA TAGLIO",
-      "um": "PZ",
-      "disp": 9268.0,
-      "isAvailable": true,
-      "category": "Altri Prodotti",
-      "alloy": "Inox / Altro",
-      "altCode": ""
-    },
-    {
-      "id": "SPETAG00035000",
-      "code": "SPETAG00035000",
-      "desc": "SPESA TAGLIO",
-      "um": "PZ",
-      "disp": 9852.0,
-      "isAvailable": true,
-      "category": "Altri Prodotti",
-      "alloy": "Inox / Altro",
-      "altCode": "13,00"
-    },
-    {
-      "id": "SPEVARIE",
-      "code": "SPEVARIE",
-      "desc": "SPESE VARIE",
-      "um": "PZ",
-      "disp": 441.0,
-      "isAvailable": true,
-      "category": "Altri Prodotti",
-      "alloy": "Inox / Altro",
-      "altCode": ""
     },
     {
       "id": "TAGLAM304",
@@ -39209,17 +38494,6 @@
       "altCode": "50,8X 1,5"
     },
     {
-      "id": "TET304-050,8X3,0G",
-      "code": "TET304-050,8X3,0G",
-      "desc": "NON UTILIZZARE",
-      "um": "MT",
-      "disp": 0.0,
-      "isAvailable": false,
-      "category": "Altri Prodotti",
-      "alloy": "AISI 304",
-      "altCode": "50,8X3,0"
-    },
-    {
       "id": "TET304-050X1,0F",
       "code": "TET304-050X1,0F",
       "desc": "TUBO ACC_AISI 304 ELETTR.",
@@ -41387,17 +40661,6 @@
       "altCode": "204  X  2"
     },
     {
-      "id": "TET304-204X3,0G",
-      "code": "TET304-204X3,0G",
-      "desc": "NON UTILIZZARE",
-      "um": "MT",
-      "disp": 0.0,
-      "isAvailable": false,
-      "category": "Altri Prodotti",
-      "alloy": "AISI 304",
-      "altCode": ""
-    },
-    {
       "id": "TET304-206X3,0G",
       "code": "TET304-206X3,0G",
       "desc": "TUBO ACC. AISI 304 ELETTR.",
@@ -41517,17 +40780,6 @@
       "category": "Tubi Tondi",
       "alloy": "AISI 304",
       "altCode": "254  X  2"
-    },
-    {
-      "id": "TET304-254X3,0G",
-      "code": "TET304-254X3,0G",
-      "desc": "NON UTILIZZARE",
-      "um": "MT",
-      "disp": 0.0,
-      "isAvailable": false,
-      "category": "Altri Prodotti",
-      "alloy": "AISI 304",
-      "altCode": ""
     },
     {
       "id": "TET304-255X2,5G",

@@ -4,7 +4,7 @@ import { Article, InventoryDataset } from '../types/inventory';
 
 const initialStock = initialStockRaw as InventoryDataset;
 
-const CACHE_KEY = 'inoxtubi_inventory_cache_v4';
+const CACHE_KEY = 'inoxtubi_inventory_cache_v5';
 const LAST_SYNC_KEY = 'inoxtubi_last_sync_time';
 
 export const GOOGLE_DRIVE_EXPORT_URL = 
@@ -13,16 +13,40 @@ export const GOOGLE_DRIVE_EXPORT_URL =
 export const GOOGLE_DRIVE_VIEW_URL = 
   'https://docs.google.com/spreadsheets/d/1hA1YbhFD-8RXD62CfifHBwucvfUBD33R/edit?usp=drive_link';
 
+// Prefissi e codici interni aziendali da escludere SEMPRE dalla visualizzazione clienti
+export const EXCLUDED_PREFIXES = [
+  'BANC',
+  'ESTINTORI',
+  'L430',
+  'LEGGE',
+  'MATD',
+  'PROVA',
+  'SCONTO',
+  'SPE'
+];
+
+export function isInternalOrExcluded(code: string, desc: string): boolean {
+  const c = code.toUpperCase().trim();
+  const d = desc.toUpperCase().trim();
+
+  // Esclusione prefissi interni
+  if (EXCLUDED_PREFIXES.some(p => c.startsWith(p))) {
+    return true;
+  }
+
+  // Esclusione descrizioni non attive o codici fittizi
+  if (d === 'NON UTILIZZARE' || c === 'B' || c === 'D' || c.startsWith('CASSA')) {
+    return true;
+  }
+
+  return false;
+}
+
 export function detectCategory(code: string, desc: string): string {
   const c = code.toUpperCase().trim();
   const d = desc.toUpperCase().trim();
 
-  // 1. Non Utilizzare / Bancali / Servizi
-  if (d === 'NON UTILIZZARE' || c.startsWith('BANC') || c.startsWith('CASSA') || c.startsWith('ESTINTORI') || c === 'B' || c === 'D') {
-    return 'Altri Prodotti';
-  }
-
-  // 2. Raccorderia e Accessori
+  // 1. Raccorderia e Accessori
   const raccKeywords = [
     'REGGITUBO', 'CURVE', 'CURVA', 'RIDUZ', 'PEZZO T', 'FLANGIA', 'CARTELLE', 'CARTELLA',
     'FONDO BOMBATO', 'TRONCHETTO', 'MANICOTTO', 'GOMITO', 'NIPPLO', 'TAPPO', 'GIUNTO',
@@ -40,17 +64,17 @@ export function detectCategory(code: string, desc: string): string {
     return 'Raccorderia / Accessori';
   }
 
-  // 3. Barre Forate (Tubi spessi / forati)
+  // 2. Barre Forate (Tubi spessi / forati)
   if (c.startsWith('BF') || d.includes('BARRA FORATA') || d.includes('BARRE FORATE')) {
     return 'Barre Forate';
   }
 
-  // 4. Tubi Senza Saldatura (TSS)
+  // 3. Tubi Senza Saldatura (TSS)
   if (c.startsWith('TSS') || ((d.includes('TUBO') || d.includes('TUBI')) && (d.includes('S/S') || d.includes('SENZA SALD')))) {
     return 'Tubi Senza Saldatura (TSS)';
   }
 
-  // 5. Lamiere, Nastri, Dischi, Piastre da lamiera
+  // 4. Lamiere, Nastri, Dischi, Piastre da lamiera
   if (d.startsWith('LAM.') || d.startsWith('LAMIERA') || d.startsWith('NASTRO') || 
       d.startsWith('PIASTRA') || d.startsWith('DISCO') || d.startsWith('ANELLO') || 
       d.startsWith('PZ. LAM') || d.includes('LAMIER') || d.includes('MANDORLAT') || 
@@ -60,42 +84,42 @@ export function detectCategory(code: string, desc: string): string {
     return 'Lamiere';
   }
 
-  // 6. Acciai Speciali
+  // 5. Acciai Speciali
   if (c.startsWith('ACC') || c.startsWith('C45') || (d.startsWith('ACCIAO') && d.includes('1.4313'))) {
     return 'Acciai Speciali';
   }
 
-  // 7. Angolari e Profili
+  // 6. Angolari e Profili
   if (c.startsWith('ANG') || c.startsWith('PRO') || d.startsWith('ANG') || d.includes('ANGOLAR') || d.includes('PROFILO ')) {
     return 'Angolari e Profili';
   }
 
-  // 8. Piatti (Barre Piatte, Cesoiate, Trafilate o Laminate Piatte)
+  // 7. Piatti (Barre Piatte, Cesoiate, Trafilate o Laminate Piatte)
   if (c.startsWith('BCE') || c.startsWith('BCA') || c.startsWith('BLP') || c.startsWith('BTP') || 
       c.startsWith('PIAT') || d.startsWith('PIAT') || d.includes('PIATTO') || d.includes('PIATTI') || 
       d.includes(' CES.') || d.includes(' CESOIAT')) {
     return 'Piatti';
   }
 
-  // 9. Barre Esagonali
+  // 8. Barre Esagonali
   if (c.startsWith('BTES') || c.startsWith('BLES') || c.startsWith('BRES') || c.startsWith('BES') || 
       c.startsWith('TSES') || d.includes('ESAG') || d.includes('ES.')) {
     return 'Barre Esagonali';
   }
 
-  // 10. Barre Quadre (BTQ, BLQ, BQ)
+  // 9. Barre Quadre (BTQ, BLQ, BQ)
   if (c.startsWith('BTQ') || c.startsWith('BLQ') || c.startsWith('BQ') || 
       (d.includes('BARRA') && (d.includes('QUADR') || d.includes('QUAD.')))) {
     return 'Barre Quadre';
   }
 
-  // 11. Barre Tonde (BTT, BLT, BRT, BTI, AVP)
+  // 10. Barre Tonde (BTT, BLT, BRT, BTI, AVP)
   if (c.startsWith('BTT') || c.startsWith('BLT') || c.startsWith('BRT') || c.startsWith('BTI') || c.startsWith('AVP') || 
       d.startsWith('BARRA') || d.startsWith('BARRE') || d.includes('TONDO')) {
     return 'Barre Tonde';
   }
 
-  // 12. Tubi Quadri e Rettangolari
+  // 11. Tubi Quadri e Rettangolari
   if (c.startsWith('TER') || c.startsWith('TEQ') || c.startsWith('TSAQ') || c.startsWith('TSAR') || 
       c.startsWith('TLQ') || c.startsWith('TLR') || c.startsWith('TEQJ') || c.startsWith('TERJ') || 
       c.startsWith('TSAQJ') || c.startsWith('TEO') || c.startsWith('TQ') || c.startsWith('TR') || 
@@ -103,7 +127,7 @@ export function detectCategory(code: string, desc: string): string {
     return 'Tubi Quadri / Rett.';
   }
 
-  // 13. Tubi Tondi Saldati / Altri Tubi Tondi
+  // 12. Tubi Tondi Saldati / Altri Tubi Tondi
   if (d.includes('TUBO') || d.includes('TUBI') || 
       c.startsWith('TET') || c.startsWith('TRI') || c.startsWith('TLE') || 
       c.startsWith('TLIE') || c.startsWith('TSAT') || c.startsWith('TEF') || c.startsWith('TETJ') || 
@@ -156,6 +180,12 @@ export function parseExcelBuffer(buffer: ArrayBuffer): Article[] {
     if (!code) continue;
 
     const desc = String(row[1] || '').trim();
+
+    // ESCLUSIONE AUTOMATICA CODICI INTERNI (BANC, ESTINTORI, L430, LEGGE, MATD, PROVA, SCONTO, SPE, etc.)
+    if (isInternalOrExcluded(code, desc)) {
+      continue;
+    }
+
     const dispRaw = row[11] !== undefined ? row[11] : (row[2] !== undefined ? row[2] : 0);
     const um = String(row[10] || 'PZ').trim();
     const altCode = row[9] ? String(row[9]).trim() : undefined;
