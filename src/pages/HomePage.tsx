@@ -303,7 +303,7 @@ export const HomePage: React.FC = () => {
         </div>
         <div className="flex items-center space-x-2 w-full sm:w-auto">
           <a
-            href="tel:+390498701200"
+            href="tel:+39049768222"
             className="flex-1 sm:flex-none px-4 py-2.5 bg-emerald-600 hover:bg-emerald-700 text-white rounded-xl text-xs font-bold flex items-center justify-center space-x-1.5 shadow-sm transition-all"
           >
             <PhoneCall className="w-4 h-4" />

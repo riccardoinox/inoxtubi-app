@@ -49,9 +49,9 @@ export const Header: React.FC = () => {
 
             {/* Quick Call */}
             <a
-              href="tel:+390498701200"
+              href="tel:+39049768222"
               className="p-2 sm:p-2.5 rounded-xl bg-slate-100 hover:bg-slate-200 border border-slate-200 text-slate-700 hover:text-emerald-600 transition-colors"
-              title="Chiama Inoxtubi Padova (+39 049 870 1200)"
+              title="Chiama Inoxtubi Padova (+39 049 768222)"
             >
               <Phone className="w-4 h-4" />
             </a>

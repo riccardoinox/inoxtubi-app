@@ -58,7 +58,7 @@ export const QuoteDrawer: React.FC = () => {
   const handleSendWhatsApp = () => {
     const text = generateFormattedText();
     const encoded = encodeURIComponent(text);
-    window.open(`https://wa.me/390498701200?text=${encoded}`, '_blank');
+    window.open(`https://wa.me/39049768222?text=${encoded}`, '_blank');
   };
 
   const handleSendEmail = () => {

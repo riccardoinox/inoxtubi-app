@@ -30,7 +30,7 @@ export const ArticleCard: React.FC<ArticleCardProps> = ({ article }) => {
     `Stato a catalogo: ${article.isAvailable ? 'Disponibile a magazzino' : 'Contattare per info/produzione'}`
   );
 
-  const whatsappUrl = `https://wa.me/390498701200?text=${whatsappMessage}`;
+  const whatsappUrl = `https://wa.me/39049768222?text=${whatsappMessage}`;
 
   const emailSubject = encodeURIComponent(`Richiesta Preventivo Inoxtubi: ${article.code}`);
   const emailBody = encodeURIComponent(

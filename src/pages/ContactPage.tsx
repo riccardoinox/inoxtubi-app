@@ -80,18 +80,18 @@ export const ContactPage: React.FC = () => {
             <div className="flex-1">
               <h3 className="font-display font-bold text-sm text-inox-navy">Telefono & Ufficio Vendite</h3>
               <p className="text-xs text-slate-600 mt-1">
-                Centralino: <strong>+39 049 870 1200</strong>
+                Centralino: <strong>+39 049 768222</strong>
               </p>
               <div className="flex flex-wrap gap-2 mt-3">
                 <a
-                  href="tel:+390498701200"
+                  href="tel:+39049768222"
                   className="px-3 py-1.5 bg-inox-navy hover:bg-slate-800 text-white rounded-lg text-xs font-bold flex items-center space-x-1"
                 >
                   <Phone className="w-3.5 h-3.5" />
                   <span>Chiama</span>
                 </a>
                 <a
-                  href="https://wa.me/390498701200?text=Salve%20Inoxtubi,%20vorrei%20informazioni%20su..."
+                  href="https://wa.me/39049768222?text=Salve%20Inoxtubi,%20vorrei%20informazioni%20su..."
                   target="_blank"
                   rel="noopener noreferrer"
                   className="px-3 py-1.5 bg-emerald-600 hover:bg-emerald-700 text-white rounded-lg text-xs font-bold flex items-center space-x-1"
