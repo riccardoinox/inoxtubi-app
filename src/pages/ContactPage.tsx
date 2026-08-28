@@ -142,7 +142,7 @@ export const ContactPage: React.FC = () => {
             <p className="leading-relaxed">
               <strong>Ragione Sociale:</strong> INOXTUBI PADOVA S.R.L.<br />
               <strong>Sede Legale e Operativa:</strong> Via Cesare Battisti 5, 35010 Limena (PD)<br />
-              <strong>C.F. e P.IVA:</strong> 00864410287 &bull; <strong>R.E.A. Padova:</strong> PD-135890
+              <strong>C.F. e P.IVA:</strong> 00864410287 &bull; <strong>R.E.A.:</strong> R.E.A. Padova Nr. 154787
             </p>
           </div>
 
