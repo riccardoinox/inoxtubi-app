@@ -30,7 +30,8 @@ const CATEGORIES: CategoryFilter[] = [
   'Altri Prodotti'
 ];
 
-const ALLOYS = ['Tutte', 'AISI 304', 'AISI 304L', 'AISI 316', 'AISI 316L', 'AISI 303', '1.4313', '1.4404', 'Duplex', 'Inox / Altro'];
+// Unified alloys: 304 and 316 include 304L and 316L
+const ALLOYS = ['Tutte', 'AISI 304', 'AISI 316', 'AISI 303', 'AISI 430', '1.4313', 'Duplex', 'Inox / Altro'];
 
 export const WarehousePage: React.FC = () => {
   const { 
@@ -73,7 +74,7 @@ export const WarehousePage: React.FC = () => {
         return false;
       }
 
-      // Alloy filter
+      // Alloy filter (unified)
       if (selectedAlloy !== 'Tutte' && article.alloy !== selectedAlloy) {
         return false;
       }
@@ -193,7 +194,7 @@ export const WarehousePage: React.FC = () => {
           )}
         </div>
 
-        {/* Category Wrap Chips (Fixed: wraps cleanly without cutting off) */}
+        {/* Category Wrap Chips */}
         <div className="flex flex-wrap items-center gap-1.5 py-1">
           {CATEGORIES.map(cat => (
             <button
@@ -252,7 +253,7 @@ export const WarehousePage: React.FC = () => {
           {/* Alloy Selector & Favorites & Sorting */}
           <div className="flex items-center space-x-2">
             
-            {/* Alloy Dropdown with AISI 303 */}
+            {/* Unified Alloy Dropdown */}
             <select
               value={selectedAlloy}
               onChange={e => setSelectedAlloy(e.target.value)}

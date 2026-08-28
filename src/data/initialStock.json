@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-28T10:45:00.000Z",
+  "updatedAt": "2026-08-28T11:55:00.000Z",
   "totalCount": 4772,
   "availableCount": 1461,
   "sourceUrl": "https://docs.google.com/spreadsheets/d/1hA1YbhFD-8RXD62CfifHBwucvfUBD33R/edit?usp=drive_link",
@@ -287,7 +287,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Lamiere",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": ""
     },
     {
@@ -298,7 +298,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Lamiere",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": ""
     },
     {
@@ -309,7 +309,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Lamiere",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": ""
     },
     {
@@ -331,7 +331,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Angolari e Profili",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": ""
     },
     {
@@ -342,7 +342,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Angolari e Profili",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "100 X 100 X 10"
     },
     {
@@ -353,7 +353,7 @@
       "disp": 189.99,
       "isAvailable": true,
       "category": "Angolari e Profili",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "20 X 20 X 3"
     },
     {
@@ -364,7 +364,7 @@
       "disp": 20.0,
       "isAvailable": true,
       "category": "Angolari e Profili",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "25 X 25 X 3"
     },
     {
@@ -375,7 +375,7 @@
       "disp": 34.8,
       "isAvailable": true,
       "category": "Angolari e Profili",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "25 X 25 X 4"
     },
     {
@@ -386,7 +386,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Angolari e Profili",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "25 X 25 X 5"
     },
     {
@@ -397,7 +397,7 @@
       "disp": 1274.0,
       "isAvailable": true,
       "category": "Angolari e Profili",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "30 X 30 X 3"
     },
     {
@@ -408,7 +408,7 @@
       "disp": 346.72,
       "isAvailable": true,
       "category": "Angolari e Profili",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "30 X 30 X 4"
     },
     {
@@ -419,7 +419,7 @@
       "disp": 121.0,
       "isAvailable": true,
       "category": "Angolari e Profili",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "30 X 30 X 5"
     },
     {
@@ -430,7 +430,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Angolari e Profili",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "35 X 35 X 3"
     },
     {
@@ -441,7 +441,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Angolari e Profili",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "35 X 35 X 4"
     },
     {
@@ -452,7 +452,7 @@
       "disp": 196.0,
       "isAvailable": true,
       "category": "Angolari e Profili",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "40 X 40 X 3"
     },
     {
@@ -474,7 +474,7 @@
       "disp": 2710.22,
       "isAvailable": true,
       "category": "Angolari e Profili",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "40 X 40 X 4"
     },
     {
@@ -485,7 +485,7 @@
       "disp": 483.18,
       "isAvailable": true,
       "category": "Angolari e Profili",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "40 X 40 X 5"
     },
     {
@@ -496,7 +496,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Angolari e Profili",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "40 X 40 X 6"
     },
     {
@@ -507,7 +507,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Angolari e Profili",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "50 X 50 X 4"
     },
     {
@@ -518,7 +518,7 @@
       "disp": 1693.34,
       "isAvailable": true,
       "category": "Angolari e Profili",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "50 X 50 X 5"
     },
     {
@@ -529,7 +529,7 @@
       "disp": 945.0,
       "isAvailable": true,
       "category": "Angolari e Profili",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "60 X 60 X 6"
     },
     {
@@ -540,7 +540,7 @@
       "disp": 88.0,
       "isAvailable": true,
       "category": "Angolari e Profili",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "70 X 70 X 7"
     },
     {
@@ -551,7 +551,7 @@
       "disp": 158.0,
       "isAvailable": true,
       "category": "Angolari e Profili",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "80 X 80 X 8"
     },
     {
@@ -573,7 +573,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Angolari e Profili",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": ""
     },
     {
@@ -584,7 +584,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Angolari e Profili",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "20 X 20 X 3"
     },
     {
@@ -595,7 +595,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Angolari e Profili",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "25 X 25 X 3"
     },
     {
@@ -606,7 +606,7 @@
       "disp": 16.0,
       "isAvailable": true,
       "category": "Angolari e Profili",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "30 X 30 X 3"
     },
     {
@@ -617,7 +617,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Angolari e Profili",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "30 X 30 X 4"
     },
     {
@@ -628,7 +628,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Angolari e Profili",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "35 X 35 X 4"
     },
     {
@@ -639,7 +639,7 @@
       "disp": 14.0,
       "isAvailable": true,
       "category": "Angolari e Profili",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "40 X 40 X 4"
     },
     {
@@ -650,7 +650,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Angolari e Profili",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "40 X 40 X 5"
     },
     {
@@ -661,7 +661,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Angolari e Profili",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "100 X 100 X 10"
     },
     {
@@ -672,7 +672,7 @@
       "disp": 164.0,
       "isAvailable": true,
       "category": "Angolari e Profili",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "50 X 50 X 5"
     },
     {
@@ -683,7 +683,7 @@
       "disp": 33.0,
       "isAvailable": true,
       "category": "Angolari e Profili",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "60 X 60 X 6"
     },
     {
@@ -694,7 +694,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Angolari e Profili",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "70 X 70 X 7"
     },
     {
@@ -705,7 +705,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Angolari e Profili",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "75 X 75 X 10"
     },
     {
@@ -716,7 +716,7 @@
       "disp": 61.0,
       "isAvailable": true,
       "category": "Angolari e Profili",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "80 X 80 X 8"
     },
     {
@@ -5842,7 +5842,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": ""
     },
     {
@@ -5853,7 +5853,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "15 X 5"
     },
     {
@@ -5864,7 +5864,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "15 X 6"
     },
     {
@@ -5875,7 +5875,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "15 X 8"
     },
     {
@@ -5886,7 +5886,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "15 X 10"
     },
     {
@@ -5897,7 +5897,7 @@
       "disp": 2.0,
       "isAvailable": true,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "20 X 4"
     },
     {
@@ -5908,7 +5908,7 @@
       "disp": 39.0,
       "isAvailable": true,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "20 X 5"
     },
     {
@@ -5919,7 +5919,7 @@
       "disp": 10.0,
       "isAvailable": true,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "20 X 6"
     },
     {
@@ -5930,7 +5930,7 @@
       "disp": 48.0,
       "isAvailable": true,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "20 X 8"
     },
     {
@@ -5941,7 +5941,7 @@
       "disp": 104.5,
       "isAvailable": true,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "20 X 10"
     },
     {
@@ -5952,7 +5952,7 @@
       "disp": 104.0,
       "isAvailable": true,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "20 X 12"
     },
     {
@@ -5963,7 +5963,7 @@
       "disp": 203.0,
       "isAvailable": true,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "20 X 15"
     },
     {
@@ -5974,7 +5974,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "25 X 3"
     },
     {
@@ -5985,7 +5985,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "25 X 4"
     },
     {
@@ -5996,7 +5996,7 @@
       "disp": 45.0,
       "isAvailable": true,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "25 X 5"
     },
     {
@@ -6007,7 +6007,7 @@
       "disp": 62.0,
       "isAvailable": true,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "25 X 6"
     },
     {
@@ -6018,7 +6018,7 @@
       "disp": 5.5,
       "isAvailable": true,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "25 X 8"
     },
     {
@@ -6029,7 +6029,7 @@
       "disp": 69.72,
       "isAvailable": true,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "25 X 10"
     },
     {
@@ -6040,7 +6040,7 @@
       "disp": 20.0,
       "isAvailable": true,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "25 X 12"
     },
     {
@@ -6051,7 +6051,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "25 X 15"
     },
     {
@@ -6062,7 +6062,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "30 X 3"
     },
     {
@@ -6073,7 +6073,7 @@
       "disp": 90.0,
       "isAvailable": true,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "30 X 4"
     },
     {
@@ -6084,7 +6084,7 @@
       "disp": 70.0,
       "isAvailable": true,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "30 X 5"
     },
     {
@@ -6095,7 +6095,7 @@
       "disp": 116.61,
       "isAvailable": true,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "30 X 6"
     },
     {
@@ -6106,7 +6106,7 @@
       "disp": 243.0,
       "isAvailable": true,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "30 X 8"
     },
     {
@@ -6117,7 +6117,7 @@
       "disp": 48.0,
       "isAvailable": true,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "30 X 10"
     },
     {
@@ -6128,7 +6128,7 @@
       "disp": 130.0,
       "isAvailable": true,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "30 X 12"
     },
     {
@@ -6139,7 +6139,7 @@
       "disp": 127.5,
       "isAvailable": true,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "30 X 15"
     },
     {
@@ -6150,7 +6150,7 @@
       "disp": 413.16,
       "isAvailable": true,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "30 X 20"
     },
     {
@@ -6161,7 +6161,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "30 X 25"
     },
     {
@@ -6172,7 +6172,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "35 X 4"
     },
     {
@@ -6183,7 +6183,7 @@
       "disp": 6.0,
       "isAvailable": true,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "35 X 5"
     },
     {
@@ -6194,7 +6194,7 @@
       "disp": 112.0,
       "isAvailable": true,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "35 X 8"
     },
     {
@@ -6205,7 +6205,7 @@
       "disp": 128.0,
       "isAvailable": true,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "35 X 10"
     },
     {
@@ -6216,7 +6216,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "35 X 12"
     },
     {
@@ -6227,7 +6227,7 @@
       "disp": 174.0,
       "isAvailable": true,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "35 X 15"
     },
     {
@@ -6238,7 +6238,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "35 X 20"
     },
     {
@@ -6249,7 +6249,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "35 X 25"
     },
     {
@@ -6260,7 +6260,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "40 X 3"
     },
     {
@@ -6271,7 +6271,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "40 X 4"
     },
     {
@@ -6282,7 +6282,7 @@
       "disp": 45.0,
       "isAvailable": true,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "40 X 5"
     },
     {
@@ -6293,7 +6293,7 @@
       "disp": 22.0,
       "isAvailable": true,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "40 X 6"
     },
     {
@@ -6304,7 +6304,7 @@
       "disp": 152.0,
       "isAvailable": true,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "40 X 8"
     },
     {
@@ -6315,7 +6315,7 @@
       "disp": 54.0,
       "isAvailable": true,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "40 X 10"
     },
     {
@@ -6326,7 +6326,7 @@
       "disp": 24.0,
       "isAvailable": true,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "40 X 12"
     },
     {
@@ -6337,7 +6337,7 @@
       "disp": 81.0,
       "isAvailable": true,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "40 X 15"
     },
     {
@@ -6348,7 +6348,7 @@
       "disp": 182.72,
       "isAvailable": true,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "40 X 20"
     },
     {
@@ -6359,7 +6359,7 @@
       "disp": 91.0,
       "isAvailable": true,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "40 X 25"
     },
     {
@@ -6370,7 +6370,7 @@
       "disp": 322.0,
       "isAvailable": true,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "40 X 30"
     },
     {
@@ -6381,7 +6381,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "45 X 10"
     },
     {
@@ -6392,7 +6392,7 @@
       "disp": 25.0,
       "isAvailable": true,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "45 X 12"
     },
     {
@@ -6403,7 +6403,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "45 X 15"
     },
     {
@@ -6414,7 +6414,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "45 X 20"
     },
     {
@@ -6425,7 +6425,7 @@
       "disp": 28.24,
       "isAvailable": true,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "50 X 5"
     },
     {
@@ -6436,7 +6436,7 @@
       "disp": 40.0,
       "isAvailable": true,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "50 X 6"
     },
     {
@@ -6447,7 +6447,7 @@
       "disp": 135.0,
       "isAvailable": true,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "50 X 8"
     },
     {
@@ -6458,7 +6458,7 @@
       "disp": 302.0,
       "isAvailable": true,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "50 X 10"
     },
     {
@@ -6469,7 +6469,7 @@
       "disp": 593.0,
       "isAvailable": true,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "50 X 12"
     },
     {
@@ -6480,7 +6480,7 @@
       "disp": 115.0,
       "isAvailable": true,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "50 X 15"
     },
     {
@@ -6491,7 +6491,7 @@
       "disp": 93.0,
       "isAvailable": true,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "50 X 20"
     },
     {
@@ -6502,7 +6502,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "50 X 25"
     },
     {
@@ -6513,7 +6513,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "50 X 30"
     },
     {
@@ -6524,7 +6524,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "50 X 35"
     },
     {
@@ -6535,7 +6535,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "50 X 40"
     },
     {
@@ -6546,7 +6546,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "60 X 5"
     },
     {
@@ -6557,7 +6557,7 @@
       "disp": 9.0,
       "isAvailable": true,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "60 X 6"
     },
     {
@@ -6568,7 +6568,7 @@
       "disp": 175.0,
       "isAvailable": true,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "60 X 8"
     },
     {
@@ -6579,7 +6579,7 @@
       "disp": 119.0,
       "isAvailable": true,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "60 X 10"
     },
     {
@@ -6590,7 +6590,7 @@
       "disp": 30.0,
       "isAvailable": true,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "60 X 12"
     },
     {
@@ -6601,7 +6601,7 @@
       "disp": 128.0,
       "isAvailable": true,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "60 X 15"
     },
     {
@@ -6612,7 +6612,7 @@
       "disp": 179.0,
       "isAvailable": true,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "60 X 20"
     },
     {
@@ -6623,7 +6623,7 @@
       "disp": 154.0,
       "isAvailable": true,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "60 X 25"
     },
     {
@@ -6634,7 +6634,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "60 X 30"
     },
     {
@@ -6645,7 +6645,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "60 X 35"
     },
     {
@@ -6656,7 +6656,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "60 X 40"
     },
     {
@@ -6667,7 +6667,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "60 X 50"
     },
     {
@@ -6678,7 +6678,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "70 X 5"
     },
     {
@@ -6689,7 +6689,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "70 X 6"
     },
     {
@@ -6700,7 +6700,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "70 X 8"
     },
     {
@@ -6711,7 +6711,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "70 X 10"
     },
     {
@@ -6722,7 +6722,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "70 X 12"
     },
     {
@@ -6733,7 +6733,7 @@
       "disp": 49.0,
       "isAvailable": true,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "70 X 15"
     },
     {
@@ -6744,7 +6744,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "70 X 20"
     },
     {
@@ -6755,7 +6755,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "70 X 25"
     },
     {
@@ -6766,7 +6766,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "70 X 30"
     },
     {
@@ -6777,7 +6777,7 @@
       "disp": -3.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "70 X 40"
     },
     {
@@ -6788,7 +6788,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "70 X 50"
     },
     {
@@ -6799,7 +6799,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "75 X 40"
     },
     {
@@ -6810,7 +6810,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "80 X 5"
     },
     {
@@ -6821,7 +6821,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "80 X 6"
     },
     {
@@ -6832,7 +6832,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "80 X 8"
     },
     {
@@ -6843,7 +6843,7 @@
       "disp": 75.0,
       "isAvailable": true,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "80 X 10"
     },
     {
@@ -6854,7 +6854,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "80 X 12"
     },
     {
@@ -6865,7 +6865,7 @@
       "disp": 160.0,
       "isAvailable": true,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "80 X 15"
     },
     {
@@ -6876,7 +6876,7 @@
       "disp": 153.0,
       "isAvailable": true,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "80 X 20"
     },
     {
@@ -6887,7 +6887,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "80 X 25"
     },
     {
@@ -6898,7 +6898,7 @@
       "disp": 116.0,
       "isAvailable": true,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "80 X 30"
     },
     {
@@ -6909,7 +6909,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "80 X 40"
     },
     {
@@ -6920,7 +6920,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "80 X 50"
     },
     {
@@ -6931,7 +6931,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "80 X 60"
     },
     {
@@ -6942,7 +6942,7 @@
       "disp": -1.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "90 X 10"
     },
     {
@@ -6953,7 +6953,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "90 X 15"
     },
     {
@@ -6964,7 +6964,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "90 X 20"
     },
     {
@@ -6975,7 +6975,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "90 X 25"
     },
     {
@@ -6986,7 +6986,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "90 X 30"
     },
     {
@@ -6997,7 +6997,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "90 X 40"
     },
     {
@@ -7008,7 +7008,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "100 X 5"
     },
     {
@@ -7019,7 +7019,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "100 X 6"
     },
     {
@@ -7030,7 +7030,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "100 X 8"
     },
     {
@@ -7041,7 +7041,7 @@
       "disp": 48.0,
       "isAvailable": true,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "100 X 10"
     },
     {
@@ -7052,7 +7052,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "100 X 12"
     },
     {
@@ -7063,7 +7063,7 @@
       "disp": 778.0,
       "isAvailable": true,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "100 X 15"
     },
     {
@@ -7074,7 +7074,7 @@
       "disp": 754.0,
       "isAvailable": true,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "100 X 20"
     },
     {
@@ -7085,7 +7085,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "100 X 25"
     },
     {
@@ -7096,7 +7096,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "100 X 30"
     },
     {
@@ -7107,7 +7107,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "100 X 40"
     },
     {
@@ -7118,7 +7118,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "100 X 50"
     },
     {
@@ -7129,7 +7129,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "100 X 60"
     },
     {
@@ -7140,7 +7140,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "120 X 8"
     },
     {
@@ -7151,7 +7151,7 @@
       "disp": 177.0,
       "isAvailable": true,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "120 X 10"
     },
     {
@@ -7162,7 +7162,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "120 X 12"
     },
     {
@@ -7173,7 +7173,7 @@
       "disp": 28.0,
       "isAvailable": true,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "120 X 15"
     },
     {
@@ -7184,7 +7184,7 @@
       "disp": 114.0,
       "isAvailable": true,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "120 X 20"
     },
     {
@@ -7195,7 +7195,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "120 X 25"
     },
     {
@@ -7206,7 +7206,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "120 X 30"
     },
     {
@@ -7217,7 +7217,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "120 X 40"
     },
     {
@@ -7228,7 +7228,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "130 X 15"
     },
     {
@@ -7239,7 +7239,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "150 X 8"
     },
     {
@@ -7250,7 +7250,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "150 X 10"
     },
     {
@@ -7261,7 +7261,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "150 X 12"
     },
     {
@@ -7272,7 +7272,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "150 X 15"
     },
     {
@@ -7283,7 +7283,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "150 X 20"
     },
     {
@@ -7294,7 +7294,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "150 X 30"
     },
     {
@@ -7305,7 +7305,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "160 X 15"
     },
     {
@@ -7316,7 +7316,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "180 X 20"
     },
     {
@@ -7327,7 +7327,7 @@
       "disp": 124.0,
       "isAvailable": true,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "200 X 15"
     },
     {
@@ -7338,7 +7338,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "200 X 20"
     },
     {
@@ -7349,7 +7349,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "220 X 15"
     },
     {
@@ -7437,7 +7437,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": ""
     },
     {
@@ -7448,7 +7448,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "15 X 5"
     },
     {
@@ -7459,7 +7459,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "15 X 8"
     },
     {
@@ -7470,7 +7470,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "15 X 10"
     },
     {
@@ -7481,7 +7481,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "20 X 6"
     },
     {
@@ -7492,7 +7492,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "20 X 8"
     },
     {
@@ -7503,7 +7503,7 @@
       "disp": 8.0,
       "isAvailable": true,
       "category": "Piatti",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "20 X 10"
     },
     {
@@ -7514,7 +7514,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "20 X 12"
     },
     {
@@ -7525,7 +7525,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "25 X 5"
     },
     {
@@ -7536,7 +7536,7 @@
       "disp": 36.0,
       "isAvailable": true,
       "category": "Piatti",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "25 X 6"
     },
     {
@@ -7547,7 +7547,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "25 X 8"
     },
     {
@@ -7558,7 +7558,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "25 X 10"
     },
     {
@@ -7569,7 +7569,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "25 X 15"
     },
     {
@@ -7580,7 +7580,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "30 X 6"
     },
     {
@@ -7591,7 +7591,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "30 X 8"
     },
     {
@@ -7602,7 +7602,7 @@
       "disp": 102.0,
       "isAvailable": true,
       "category": "Piatti",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "30 X 10"
     },
     {
@@ -7613,7 +7613,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "30 X 12"
     },
     {
@@ -7624,7 +7624,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "30 X 15"
     },
     {
@@ -7635,7 +7635,7 @@
       "disp": 4.96,
       "isAvailable": true,
       "category": "Piatti",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "30 X 20"
     },
     {
@@ -7646,7 +7646,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "35 X 15"
     },
     {
@@ -7657,7 +7657,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "35 X 20"
     },
     {
@@ -7668,7 +7668,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "40 X 5"
     },
     {
@@ -7679,7 +7679,7 @@
       "disp": 45.0,
       "isAvailable": true,
       "category": "Piatti",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "40 X 6"
     },
     {
@@ -7690,7 +7690,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "40 X 8"
     },
     {
@@ -7701,7 +7701,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "40 X 10"
     },
     {
@@ -7712,7 +7712,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "40 X 15"
     },
     {
@@ -7723,7 +7723,7 @@
       "disp": 39.0,
       "isAvailable": true,
       "category": "Piatti",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "40 X 20"
     },
     {
@@ -7734,7 +7734,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "40 X 25"
     },
     {
@@ -7745,7 +7745,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "40 X 30"
     },
     {
@@ -7767,7 +7767,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "50 X 5"
     },
     {
@@ -7778,7 +7778,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "50 X 6"
     },
     {
@@ -7789,7 +7789,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "50 X 8"
     },
     {
@@ -7800,7 +7800,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "50 X 10"
     },
     {
@@ -7811,7 +7811,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "50 X 15"
     },
     {
@@ -7822,7 +7822,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "50 X 20"
     },
     {
@@ -7833,7 +7833,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "50 X 25"
     },
     {
@@ -7844,7 +7844,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "50 X 30"
     },
     {
@@ -7855,7 +7855,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "50 X 40"
     },
     {
@@ -7866,7 +7866,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "60 X 5"
     },
     {
@@ -7877,7 +7877,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "60 X 8"
     },
     {
@@ -7888,7 +7888,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "60 X 10"
     },
     {
@@ -7899,7 +7899,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "60 X 15"
     },
     {
@@ -7910,7 +7910,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "60 X 20"
     },
     {
@@ -7921,7 +7921,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "60 X 25"
     },
     {
@@ -7932,7 +7932,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "60 X 30"
     },
     {
@@ -7943,7 +7943,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "60 X 40"
     },
     {
@@ -7954,7 +7954,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "60 X 50"
     },
     {
@@ -7965,7 +7965,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "70 X 10"
     },
     {
@@ -7976,7 +7976,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "70 X 15"
     },
     {
@@ -7987,7 +7987,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "70 X 20"
     },
     {
@@ -7998,7 +7998,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "70 X 25"
     },
     {
@@ -8009,7 +8009,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "70 X 35"
     },
     {
@@ -8020,7 +8020,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "70 X 40"
     },
     {
@@ -8031,7 +8031,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "78 X 35"
     },
     {
@@ -8042,7 +8042,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "80 X 6"
     },
     {
@@ -8053,7 +8053,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "80 X 10"
     },
     {
@@ -8064,7 +8064,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "80 X 15"
     },
     {
@@ -8075,7 +8075,7 @@
       "disp": 3.0,
       "isAvailable": true,
       "category": "Piatti",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "80 X 20"
     },
     {
@@ -8086,7 +8086,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "80 X 25"
     },
     {
@@ -8097,7 +8097,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "80 X 30"
     },
     {
@@ -8108,7 +8108,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "80 X 40"
     },
     {
@@ -8119,7 +8119,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "80 X 50"
     },
     {
@@ -8130,7 +8130,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "90 X 15"
     },
     {
@@ -8141,7 +8141,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "100 X 12"
     },
     {
@@ -8152,7 +8152,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "100 X 15"
     },
     {
@@ -8163,7 +8163,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "100 X 20"
     },
     {
@@ -8174,7 +8174,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "100 X 25"
     },
     {
@@ -8185,7 +8185,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "100 X 30"
     },
     {
@@ -8196,7 +8196,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "120 X 12"
     },
     {
@@ -8207,7 +8207,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "120 X 15"
     },
     {
@@ -8218,7 +8218,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "120 X 20"
     },
     {
@@ -8229,7 +8229,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "150 X 8"
     },
     {
@@ -8240,7 +8240,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "150 X 10"
     },
     {
@@ -8251,7 +8251,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "150 X 12"
     },
     {
@@ -8262,7 +8262,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "150 X 15"
     },
     {
@@ -8273,7 +8273,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "150 X 20"
     },
     {
@@ -8284,7 +8284,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Piatti",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "200 X 6"
     },
     {
@@ -8306,7 +8306,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Quadre",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": ""
     },
     {
@@ -8317,7 +8317,7 @@
       "disp": 31.0,
       "isAvailable": true,
       "category": "Barre Quadre",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "8 X 8"
     },
     {
@@ -8328,7 +8328,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Quadre",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "10 X 10"
     },
     {
@@ -8339,7 +8339,7 @@
       "disp": 70.62,
       "isAvailable": true,
       "category": "Barre Quadre",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "12 X 12"
     },
     {
@@ -8350,7 +8350,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Quadre",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "14 X 14"
     },
     {
@@ -8361,7 +8361,7 @@
       "disp": 20.0,
       "isAvailable": true,
       "category": "Barre Quadre",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "15 X 15"
     },
     {
@@ -8372,7 +8372,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Quadre",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "16 X 16"
     },
     {
@@ -8383,7 +8383,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Quadre",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "18 X 18"
     },
     {
@@ -8394,7 +8394,7 @@
       "disp": 499.0,
       "isAvailable": true,
       "category": "Barre Quadre",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "20 X 20"
     },
     {
@@ -8405,7 +8405,7 @@
       "disp": 31.0,
       "isAvailable": true,
       "category": "Barre Quadre",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "25 X 25"
     },
     {
@@ -8416,7 +8416,7 @@
       "disp": 129.0,
       "isAvailable": true,
       "category": "Barre Quadre",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "30 X 30"
     },
     {
@@ -8427,7 +8427,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Quadre",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "35 X 35"
     },
     {
@@ -8438,7 +8438,7 @@
       "disp": 152.0,
       "isAvailable": true,
       "category": "Barre Quadre",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "40 X 40"
     },
     {
@@ -8449,7 +8449,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Quadre",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "45 X 45"
     },
     {
@@ -8460,7 +8460,7 @@
       "disp": 116.0,
       "isAvailable": true,
       "category": "Barre Quadre",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "50 X 50"
     },
     {
@@ -8471,7 +8471,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Quadre",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "55 X 55"
     },
     {
@@ -8482,7 +8482,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Quadre",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "60 X 60"
     },
     {
@@ -8493,7 +8493,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Quadre",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "65 X 65"
     },
     {
@@ -8504,7 +8504,7 @@
       "disp": -2.0,
       "isAvailable": false,
       "category": "Barre Quadre",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "70 X 70"
     },
     {
@@ -8515,7 +8515,7 @@
       "disp": 1.42,
       "isAvailable": true,
       "category": "Barre Quadre",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "80 X 80"
     },
     {
@@ -8537,7 +8537,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Quadre",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "100 X 100"
     },
     {
@@ -8548,7 +8548,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Quadre",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "120 X 120"
     },
     {
@@ -8559,7 +8559,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Quadre",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": ""
     },
     {
@@ -8570,7 +8570,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Quadre",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "8 X 8"
     },
     {
@@ -8581,7 +8581,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Quadre",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "10 X 10"
     },
     {
@@ -8592,7 +8592,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Quadre",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "12 X 12"
     },
     {
@@ -8603,7 +8603,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Quadre",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "14 X 14"
     },
     {
@@ -8614,7 +8614,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Quadre",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "15 X 15"
     },
     {
@@ -8625,7 +8625,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Quadre",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "16 X 16"
     },
     {
@@ -8636,7 +8636,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Quadre",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "20 X 20"
     },
     {
@@ -8647,7 +8647,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Quadre",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "25 X 25"
     },
     {
@@ -8658,7 +8658,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Quadre",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "30 X 30"
     },
     {
@@ -8669,7 +8669,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Quadre",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "35 X 35"
     },
     {
@@ -8680,7 +8680,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Quadre",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "40 X 40"
     },
     {
@@ -8691,7 +8691,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Quadre",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "45 X 45"
     },
     {
@@ -8702,7 +8702,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Quadre",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "50 X 50"
     },
     {
@@ -8713,7 +8713,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Quadre",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "60 X 60"
     },
     {
@@ -8724,7 +8724,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Quadre",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "70 X 70"
     },
     {
@@ -8735,7 +8735,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Quadre",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "80 X 80"
     },
     {
@@ -8746,7 +8746,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Quadre",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "90 X 90"
     },
     {
@@ -8757,7 +8757,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Quadre",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "100 X 100"
     },
     {
@@ -9131,7 +9131,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Tonde",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": ""
     },
     {
@@ -9142,7 +9142,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Tonde",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "12"
     },
     {
@@ -9153,7 +9153,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Tonde",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "18"
     },
     {
@@ -9164,7 +9164,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Tonde",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "20"
     },
     {
@@ -9175,7 +9175,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Tonde",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "22"
     },
     {
@@ -9186,7 +9186,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Tonde",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "24"
     },
     {
@@ -9197,7 +9197,7 @@
       "disp": 153.0,
       "isAvailable": true,
       "category": "Barre Tonde",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "25"
     },
     {
@@ -9208,7 +9208,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Tonde",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "27"
     },
     {
@@ -9219,7 +9219,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Tonde",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "28"
     },
     {
@@ -9230,7 +9230,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Tonde",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "28"
     },
     {
@@ -9241,7 +9241,7 @@
       "disp": 24.0,
       "isAvailable": true,
       "category": "Barre Tonde",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "30"
     },
     {
@@ -9252,7 +9252,7 @@
       "disp": 196.0,
       "isAvailable": true,
       "category": "Barre Tonde",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "32"
     },
     {
@@ -9263,7 +9263,7 @@
       "disp": 9.0,
       "isAvailable": true,
       "category": "Barre Tonde",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "35"
     },
     {
@@ -9274,7 +9274,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Tonde",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "36"
     },
     {
@@ -9285,7 +9285,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Tonde",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "38"
     },
     {
@@ -9296,7 +9296,7 @@
       "disp": 211.0,
       "isAvailable": true,
       "category": "Barre Tonde",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "40"
     },
     {
@@ -9307,7 +9307,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Tonde",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "42"
     },
     {
@@ -9318,7 +9318,7 @@
       "disp": 123.0,
       "isAvailable": true,
       "category": "Barre Tonde",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "45"
     },
     {
@@ -9329,7 +9329,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Tonde",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "48"
     },
     {
@@ -9340,7 +9340,7 @@
       "disp": 661.6,
       "isAvailable": true,
       "category": "Barre Tonde",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "50"
     },
     {
@@ -9351,7 +9351,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Tonde",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "52"
     },
     {
@@ -9362,7 +9362,7 @@
       "disp": 648.0,
       "isAvailable": true,
       "category": "Barre Tonde",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "55"
     },
     {
@@ -9373,7 +9373,7 @@
       "disp": 590.0,
       "isAvailable": true,
       "category": "Barre Tonde",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "60"
     },
     {
@@ -9384,7 +9384,7 @@
       "disp": 220.0,
       "isAvailable": true,
       "category": "Barre Tonde",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "65"
     },
     {
@@ -9395,7 +9395,7 @@
       "disp": 267.9,
       "isAvailable": true,
       "category": "Barre Tonde",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "70"
     },
     {
@@ -9406,7 +9406,7 @@
       "disp": 406.2,
       "isAvailable": true,
       "category": "Barre Tonde",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "75"
     },
     {
@@ -9417,7 +9417,7 @@
       "disp": 988.0,
       "isAvailable": true,
       "category": "Barre Tonde",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "80"
     },
     {
@@ -9428,7 +9428,7 @@
       "disp": 585.0,
       "isAvailable": true,
       "category": "Barre Tonde",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "85"
     },
     {
@@ -9439,7 +9439,7 @@
       "disp": 626.66,
       "isAvailable": true,
       "category": "Barre Tonde",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "90"
     },
     {
@@ -9450,7 +9450,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Tonde",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "95"
     },
     {
@@ -9461,7 +9461,7 @@
       "disp": 423.0,
       "isAvailable": true,
       "category": "Barre Tonde",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "100"
     },
     {
@@ -9472,7 +9472,7 @@
       "disp": 2.0,
       "isAvailable": true,
       "category": "Barre Tonde",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "105"
     },
     {
@@ -9483,7 +9483,7 @@
       "disp": 80.73,
       "isAvailable": true,
       "category": "Barre Tonde",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "110"
     },
     {
@@ -9494,7 +9494,7 @@
       "disp": 94.0,
       "isAvailable": true,
       "category": "Barre Tonde",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "115"
     },
     {
@@ -9505,7 +9505,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Tonde",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "120"
     },
     {
@@ -9516,7 +9516,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Tonde",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "125"
     },
     {
@@ -9527,7 +9527,7 @@
       "disp": -4.0,
       "isAvailable": false,
       "category": "Barre Tonde",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "130"
     },
     {
@@ -9538,7 +9538,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Tonde",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "135"
     },
     {
@@ -9549,7 +9549,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Tonde",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "140"
     },
     {
@@ -9560,7 +9560,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Tonde",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "145"
     },
     {
@@ -9571,7 +9571,7 @@
       "disp": 49.0,
       "isAvailable": true,
       "category": "Barre Tonde",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "150"
     },
     {
@@ -9582,7 +9582,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Tonde",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "155"
     },
     {
@@ -9593,7 +9593,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Tonde",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "160"
     },
     {
@@ -9604,7 +9604,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Tonde",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "165"
     },
     {
@@ -9615,7 +9615,7 @@
       "disp": -1.0,
       "isAvailable": false,
       "category": "Barre Tonde",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "170"
     },
     {
@@ -9626,7 +9626,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Tonde",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "180"
     },
     {
@@ -9637,7 +9637,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Tonde",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "190"
     },
     {
@@ -9648,7 +9648,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Tonde",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "200"
     },
     {
@@ -9659,7 +9659,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Tonde",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "210"
     },
     {
@@ -9670,7 +9670,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Tonde",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "220"
     },
     {
@@ -9681,7 +9681,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Tonde",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "230"
     },
     {
@@ -9692,7 +9692,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Tonde",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "240"
     },
     {
@@ -9703,7 +9703,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Tonde",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "250"
     },
     {
@@ -9714,7 +9714,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Tonde",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "255"
     },
     {
@@ -9725,7 +9725,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Tonde",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "260"
     },
     {
@@ -9736,7 +9736,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Tonde",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "280"
     },
     {
@@ -9747,7 +9747,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Tonde",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "300"
     },
     {
@@ -9758,7 +9758,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Tonde",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "304,8"
     },
     {
@@ -9780,7 +9780,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Tonde",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "350"
     },
     {
@@ -9791,7 +9791,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Tonde",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "360"
     },
     {
@@ -9802,7 +9802,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Tonde",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "380"
     },
     {
@@ -9813,7 +9813,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Tonde",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "400"
     },
     {
@@ -10088,7 +10088,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Tonde",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": ""
     },
     {
@@ -10099,7 +10099,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Tonde",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "18"
     },
     {
@@ -10110,7 +10110,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Tonde",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "145"
     },
     {
@@ -10121,7 +10121,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Tonde",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "20"
     },
     {
@@ -10132,7 +10132,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Tonde",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "25"
     },
     {
@@ -10143,7 +10143,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Tonde",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "27"
     },
     {
@@ -10154,7 +10154,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Tonde",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "28"
     },
     {
@@ -10165,7 +10165,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Tonde",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "30"
     },
     {
@@ -10176,7 +10176,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Tonde",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "32"
     },
     {
@@ -10187,7 +10187,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Tonde",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "35"
     },
     {
@@ -10198,7 +10198,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Tonde",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "36"
     },
     {
@@ -10209,7 +10209,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Tonde",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "38"
     },
     {
@@ -10220,7 +10220,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Tonde",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "40"
     },
     {
@@ -10231,7 +10231,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Tonde",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "45"
     },
     {
@@ -10242,7 +10242,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Tonde",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "46"
     },
     {
@@ -10253,7 +10253,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Tonde",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "48"
     },
     {
@@ -10264,7 +10264,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Tonde",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "50"
     },
     {
@@ -10275,7 +10275,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Tonde",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "52"
     },
     {
@@ -10286,7 +10286,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Tonde",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "55"
     },
     {
@@ -10297,7 +10297,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Tonde",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "60"
     },
     {
@@ -10308,7 +10308,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Tonde",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "65"
     },
     {
@@ -10319,7 +10319,7 @@
       "disp": -1.0,
       "isAvailable": false,
       "category": "Barre Tonde",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "70"
     },
     {
@@ -10330,7 +10330,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Tonde",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "75"
     },
     {
@@ -10341,7 +10341,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Tonde",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "80"
     },
     {
@@ -10352,7 +10352,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Tonde",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "85"
     },
     {
@@ -10363,7 +10363,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Tonde",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "90"
     },
     {
@@ -10374,7 +10374,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Tonde",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "95"
     },
     {
@@ -10385,7 +10385,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Tonde",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "100"
     },
     {
@@ -10396,7 +10396,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Tonde",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "105"
     },
     {
@@ -10407,7 +10407,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Tonde",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "110"
     },
     {
@@ -10418,7 +10418,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Tonde",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "115"
     },
     {
@@ -10429,7 +10429,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Tonde",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "120"
     },
     {
@@ -10440,7 +10440,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Tonde",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "125"
     },
     {
@@ -10451,7 +10451,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Tonde",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "130"
     },
     {
@@ -10462,7 +10462,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Tonde",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "140"
     },
     {
@@ -10473,7 +10473,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Tonde",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "150"
     },
     {
@@ -10484,7 +10484,7 @@
       "disp": 2.0,
       "isAvailable": true,
       "category": "Barre Tonde",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "160"
     },
     {
@@ -10495,7 +10495,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Tonde",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "165"
     },
     {
@@ -10506,7 +10506,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Tonde",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "170"
     },
     {
@@ -10517,7 +10517,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Tonde",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "175"
     },
     {
@@ -10528,7 +10528,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Tonde",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "180"
     },
     {
@@ -10539,7 +10539,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Tonde",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "190"
     },
     {
@@ -10550,7 +10550,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Tonde",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "200"
     },
     {
@@ -10561,7 +10561,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Tonde",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "210"
     },
     {
@@ -10572,7 +10572,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Tonde",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "220"
     },
     {
@@ -10583,7 +10583,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Tonde",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "230"
     },
     {
@@ -10594,7 +10594,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Tonde",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "250"
     },
     {
@@ -10605,7 +10605,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Tonde",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "260"
     },
     {
@@ -10616,7 +10616,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Tonde",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "280"
     },
     {
@@ -10627,7 +10627,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Tonde",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "285"
     },
     {
@@ -10638,7 +10638,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Tonde",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "290"
     },
     {
@@ -10649,7 +10649,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Tonde",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "300"
     },
     {
@@ -10660,7 +10660,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Tonde",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "320"
     },
     {
@@ -10671,7 +10671,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Tonde",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "340"
     },
     {
@@ -10682,7 +10682,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Tonde",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "380"
     },
     {
@@ -15709,7 +15709,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Barre Tonde",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "12"
     },
     {
@@ -20747,7 +20747,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Lamiere",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": ""
     },
     {
@@ -22177,7 +22177,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Lamiere",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": ""
     },
     {
@@ -23376,7 +23376,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Lamiere",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": ""
     },
     {
@@ -23904,7 +23904,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Lamiere",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": ""
     },
     {
@@ -24553,7 +24553,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Lamiere",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": ""
     },
     {
@@ -24575,7 +24575,7 @@
       "disp": 97.0,
       "isAvailable": true,
       "category": "Lamiere",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": ""
     },
     {
@@ -25191,7 +25191,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Lamiere",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": ""
     },
     {
@@ -25818,7 +25818,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Lamiere",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": ""
     },
     {
@@ -26005,7 +26005,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Lamiere",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": ""
     },
     {
@@ -26390,7 +26390,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Lamiere",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": ""
     },
     {
@@ -26533,7 +26533,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Lamiere",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": ""
     },
     {
@@ -26951,7 +26951,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Lamiere",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": ""
     },
     {
@@ -27050,7 +27050,7 @@
       "disp": -69.8,
       "isAvailable": false,
       "category": "Lamiere",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": ""
     },
     {
@@ -27567,7 +27567,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Lamiere",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": ""
     },
     {
@@ -27875,7 +27875,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Lamiere",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": ""
     },
     {
@@ -27886,7 +27886,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Lamiere",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": ""
     },
     {
@@ -27897,7 +27897,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Lamiere",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "0,6 X 1500 X 3000"
     },
     {
@@ -27908,7 +27908,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Lamiere",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "0,8 X 1250 X 2500"
     },
     {
@@ -27919,7 +27919,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Lamiere",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "0,8 X 1500 X 4000"
     },
     {
@@ -27930,7 +27930,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Lamiere",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "1,0 X 1000 X 2000"
     },
     {
@@ -27941,7 +27941,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Lamiere",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "1,0 X 1500 X 3000"
     },
     {
@@ -27952,7 +27952,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Lamiere",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "1,0 X 1500 X 4000"
     },
     {
@@ -27963,7 +27963,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Lamiere",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "1,2 X 1250 X 2500"
     },
     {
@@ -27974,7 +27974,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Lamiere",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "1,2 X 1500 X 4000"
     },
     {
@@ -27985,7 +27985,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Lamiere",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "1,5 X 1250 X 2500"
     },
     {
@@ -27996,7 +27996,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Lamiere",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "2,0 X 1500 X 4000"
     },
     {
@@ -28007,7 +28007,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Lamiere",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": ""
     },
     {
@@ -28018,7 +28018,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Lamiere",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "0,5 X 1000 X 2000"
     },
     {
@@ -28029,7 +28029,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Lamiere",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "1,0 X 1000 X 2000"
     },
     {
@@ -28040,7 +28040,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Lamiere",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "1,0 X 1250 X 2000"
     },
     {
@@ -28051,7 +28051,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Lamiere",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "1,5 X 1000 X 2000"
     },
     {
@@ -28062,7 +28062,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Lamiere",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "2,0 X 1000 X 2000"
     },
     {
@@ -28073,7 +28073,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Lamiere",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "2,0 X 1000 X 3000"
     },
     {
@@ -28084,7 +28084,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Lamiere",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "2,0 X 1250 X 2500"
     },
     {
@@ -28095,7 +28095,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Lamiere",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "2,5 X 1000 X 2000"
     },
     {
@@ -28106,7 +28106,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Lamiere",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "3,0 X 1000 X 2000"
     },
     {
@@ -28117,7 +28117,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Lamiere",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "3,0 X 1250 X 2500"
     },
     {
@@ -28128,7 +28128,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Lamiere",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "4,0 X 1000 X 2000"
     },
     {
@@ -28139,7 +28139,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Lamiere",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "4,0 X 1500 X 3000"
     },
     {
@@ -28150,7 +28150,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Lamiere",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "5,0 X 1000 X 2000"
     },
     {
@@ -28161,7 +28161,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Lamiere",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "5,0 X 1500 X 3000"
     },
     {
@@ -32176,7 +32176,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Tubi Tondi",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "60 X 1,5"
     },
     {
@@ -44573,7 +44573,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Tubi Tondi",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": ""
     },
     {
@@ -44584,7 +44584,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Tubi Tondi",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "10 X 1,0"
     },
     {
@@ -44595,7 +44595,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Tubi Tondi",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "16 X 1,0"
     },
     {
@@ -44606,7 +44606,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Tubi Tondi",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "16 X 1,5"
     },
     {
@@ -44617,7 +44617,7 @@
       "disp": 48.0,
       "isAvailable": true,
       "category": "Tubi Tondi",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "18 X 1,5"
     },
     {
@@ -44628,7 +44628,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Tubi Tondi",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "20 X 1,0"
     },
     {
@@ -44639,7 +44639,7 @@
       "disp": 36.0,
       "isAvailable": true,
       "category": "Tubi Tondi",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "20 X 1,5"
     },
     {
@@ -44650,7 +44650,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Tubi Tondi",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "20 X 2,5"
     },
     {
@@ -44661,7 +44661,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Tubi Tondi",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "22 X 1,5"
     },
     {
@@ -44672,7 +44672,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Tubi Tondi",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "25 X 1,2"
     },
     {
@@ -44683,7 +44683,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Tubi Tondi",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "25 X 1,5"
     },
     {
@@ -44694,7 +44694,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Tubi Tondi",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "26,9 X 2,0"
     },
     {
@@ -44705,7 +44705,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Tubi Tondi",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "28 X 1,2"
     },
     {
@@ -44716,7 +44716,7 @@
       "disp": 270.0,
       "isAvailable": true,
       "category": "Tubi Tondi",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "30 X 1,5"
     },
     {
@@ -44727,7 +44727,7 @@
       "disp": 6.0,
       "isAvailable": true,
       "category": "Tubi Tondi",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "30 X 2,0"
     },
     {
@@ -44738,7 +44738,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Tubi Tondi",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "30 X 3,0"
     },
     {
@@ -44749,7 +44749,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Tubi Tondi",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "32 X 1,0"
     },
     {
@@ -44760,7 +44760,7 @@
       "disp": 90.0,
       "isAvailable": true,
       "category": "Tubi Tondi",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "32 X 1,5"
     },
     {
@@ -44771,7 +44771,7 @@
       "disp": 18.0,
       "isAvailable": true,
       "category": "Tubi Tondi",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "33,7 X 2,0"
     },
     {
@@ -44782,7 +44782,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Tubi Tondi",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "34 X 1,5"
     },
     {
@@ -44793,7 +44793,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Tubi Tondi",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "35 X 1,5"
     },
     {
@@ -44804,7 +44804,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Tubi Tondi",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "38 X 1,5"
     },
     {
@@ -44815,7 +44815,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Tubi Tondi",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "38 X 1,2"
     },
     {
@@ -44826,7 +44826,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Tubi Tondi",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "40 X 1,0"
     },
     {
@@ -44837,7 +44837,7 @@
       "disp": 18.0,
       "isAvailable": true,
       "category": "Tubi Tondi",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "42,4 X 2,0"
     },
     {
@@ -44848,7 +44848,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Tubi Tondi",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "48,3 X 1,5"
     },
     {
@@ -44859,7 +44859,7 @@
       "disp": 24.0,
       "isAvailable": true,
       "category": "Tubi Tondi",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "48,3 X 2,0"
     },
     {
@@ -44870,7 +44870,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Tubi Tondi",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "50,0 X 1,5"
     },
     {
@@ -44881,7 +44881,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Tubi Tondi",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "50,0 X 2,0"
     },
     {
@@ -44892,7 +44892,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Tubi Tondi",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "50,8 X 1,5"
     },
     {
@@ -44903,7 +44903,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Tubi Tondi",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "60,3 X 1,5"
     },
     {
@@ -44914,7 +44914,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Tubi Tondi",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "60,3 X 2,0"
     },
     {
@@ -44925,7 +44925,7 @@
       "disp": 288.0,
       "isAvailable": true,
       "category": "Tubi Tondi",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "60,3 X 2,5"
     },
     {
@@ -44936,7 +44936,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Tubi Tondi",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "70,0 X 2,0"
     },
     {
@@ -44947,7 +44947,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Tubi Tondi",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "70,0 X 3,0"
     },
     {
@@ -44958,7 +44958,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Tubi Tondi",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "76,1 X 3,0"
     },
     {
@@ -44969,7 +44969,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Tubi Tondi",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "76,1 X 4,0"
     },
     {
@@ -44980,7 +44980,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Tubi Tondi",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "80,0 X 1,5"
     },
     {
@@ -44991,7 +44991,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Tubi Tondi",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "88,9 X 2,0"
     },
     {
@@ -45002,7 +45002,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Tubi Tondi",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "88,9 X 4,0"
     },
     {
@@ -45013,7 +45013,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Tubi Tondi",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "114,3  X  2"
     },
     {
@@ -45024,7 +45024,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Tubi Tondi",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "129,0  X  3"
     },
     {
@@ -45035,7 +45035,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Tubi Tondi",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "168,3 X 3,0"
     },
     {
@@ -45046,7 +45046,7 @@
       "disp": 6.0,
       "isAvailable": true,
       "category": "Tubi Tondi",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "219,1  X  2"
     },
     {
@@ -45057,7 +45057,7 @@
       "disp": 102.0,
       "isAvailable": true,
       "category": "Tubi Tondi",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": ""
     },
     {
@@ -45068,7 +45068,7 @@
       "disp": 36.0,
       "isAvailable": true,
       "category": "Tubi Tondi",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "12 X 1,5"
     },
     {
@@ -45079,7 +45079,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Tubi Tondi",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "14 X 1,5"
     },
     {
@@ -45090,7 +45090,7 @@
       "disp": 24.0,
       "isAvailable": true,
       "category": "Tubi Tondi",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "16 X 1,5"
     },
     {
@@ -45101,7 +45101,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Tubi Tondi",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "16 X 2,0"
     },
     {
@@ -45112,7 +45112,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Tubi Tondi",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "17,2 X 2,0"
     },
     {
@@ -45123,7 +45123,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Tubi Tondi",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "18 X 1,5"
     },
     {
@@ -45134,7 +45134,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Tubi Tondi",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "18 X 2,0"
     },
     {
@@ -45145,7 +45145,7 @@
       "disp": 36.8,
       "isAvailable": true,
       "category": "Tubi Tondi",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "19,05 X 1,65"
     },
     {
@@ -45156,7 +45156,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Tubi Tondi",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "20 X 1,5"
     },
     {
@@ -45167,7 +45167,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Tubi Tondi",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "20 X 2,0"
     },
     {
@@ -45178,7 +45178,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Tubi Tondi",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "22 X 1,2"
     },
     {
@@ -45189,7 +45189,7 @@
       "disp": 30.0,
       "isAvailable": true,
       "category": "Tubi Tondi",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "22 X 1,5"
     },
     {
@@ -45200,7 +45200,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Tubi Tondi",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "22 X 2,0"
     },
     {
@@ -45211,7 +45211,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Tubi Tondi",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "25 X 1,5"
     },
     {
@@ -45222,7 +45222,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Tubi Tondi",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "25 X 2,0"
     },
     {
@@ -45233,7 +45233,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Tubi Tondi",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "26,9 X 2,0"
     },
     {
@@ -45244,7 +45244,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Tubi Tondi",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "30 X 1,5"
     },
     {
@@ -45255,7 +45255,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Tubi Tondi",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "30 X 2,0"
     },
     {
@@ -45266,7 +45266,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Tubi Tondi",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "33,7 X 1,5"
     },
     {
@@ -45277,7 +45277,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Tubi Tondi",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "33,7 X 2,0"
     },
     {
@@ -45288,7 +45288,7 @@
       "disp": 6.0,
       "isAvailable": true,
       "category": "Tubi Tondi",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "33,7 X 3,0"
     },
     {
@@ -45299,7 +45299,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Tubi Tondi",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "35 X 1,5"
     },
     {
@@ -45310,7 +45310,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Tubi Tondi",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "35 X 2,0"
     },
     {
@@ -45321,7 +45321,7 @@
       "disp": 6.0,
       "isAvailable": true,
       "category": "Tubi Tondi",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "40 X 2,0"
     },
     {
@@ -45332,7 +45332,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Tubi Tondi",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "42,4 X 1,5"
     },
     {
@@ -45343,7 +45343,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Tubi Tondi",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "42,4 X 2,0"
     },
     {
@@ -45354,7 +45354,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Tubi Tondi",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "48,3 X 3,0"
     },
     {
@@ -45365,7 +45365,7 @@
       "disp": 60.0,
       "isAvailable": true,
       "category": "Tubi Tondi",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "50,8 X 1,5"
     },
     {
@@ -45376,7 +45376,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Tubi Tondi",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "50 X 1,5"
     },
     {
@@ -45387,7 +45387,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Tubi Tondi",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "50 X 2,0"
     },
     {
@@ -45398,7 +45398,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Tubi Tondi",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "60 X 1,5"
     },
     {
@@ -45409,7 +45409,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Tubi Tondi",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "60 X 2,0"
     },
     {
@@ -45420,7 +45420,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Tubi Tondi",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "60,3 X 3,0"
     },
     {
@@ -45431,7 +45431,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Tubi Tondi",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": ""
     },
     {
@@ -45442,7 +45442,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Tubi Tondi",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "60,30 X 1,5"
     },
     {
@@ -45453,7 +45453,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Tubi Tondi",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "80,00 X 1,5"
     },
     {
@@ -45464,7 +45464,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Tubi Tondi",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": ""
     },
     {
@@ -45475,7 +45475,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Tubi Tondi",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "104 X 2,0"
     },
     {
@@ -45486,7 +45486,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Tubi Tondi",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": ""
     },
     {
@@ -45497,7 +45497,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Tubi Tondi",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "20 X 1,5"
     },
     {
@@ -45508,7 +45508,7 @@
       "disp": 348.0,
       "isAvailable": true,
       "category": "Tubi Tondi",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "22 X 1,5"
     },
     {
@@ -45519,7 +45519,7 @@
       "disp": 6.0,
       "isAvailable": true,
       "category": "Tubi Tondi",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "25 X 1,5"
     },
     {
@@ -45530,7 +45530,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Tubi Tondi",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "25 X 2,0"
     },
     {
@@ -45541,7 +45541,7 @@
       "disp": 324.0,
       "isAvailable": true,
       "category": "Tubi Tondi",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "28 X 1,5"
     },
     {
@@ -45552,7 +45552,7 @@
       "disp": 60.0,
       "isAvailable": true,
       "category": "Tubi Tondi",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "32 X 1,0"
     },
     {
@@ -45563,7 +45563,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Tubi Tondi",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "33,7 X 2,0"
     },
     {
@@ -45574,7 +45574,7 @@
       "disp": 72.0,
       "isAvailable": true,
       "category": "Tubi Tondi",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "34 X 1,5"
     },
     {
@@ -45585,7 +45585,7 @@
       "disp": 54.0,
       "isAvailable": true,
       "category": "Tubi Tondi",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "38 X 1,5"
     },
     {
@@ -45596,7 +45596,7 @@
       "disp": 222.0,
       "isAvailable": true,
       "category": "Tubi Tondi",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "40 X 1,5"
     },
     {
@@ -45607,7 +45607,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Tubi Tondi",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "42,4 X 1,5"
     },
     {
@@ -45618,7 +45618,7 @@
       "disp": 36.0,
       "isAvailable": true,
       "category": "Tubi Tondi",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "48,3 X 1,5"
     },
     {
@@ -45629,7 +45629,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Tubi Tondi",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "50,8 X 1,5"
     },
     {
@@ -45640,7 +45640,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Tubi Tondi",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "50 X 1,5"
     },
     {
@@ -45651,7 +45651,7 @@
       "disp": 372.0,
       "isAvailable": true,
       "category": "Tubi Tondi",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "52 X 1,5"
     },
     {
@@ -45662,7 +45662,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Tubi Tondi",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "52 X 2,0"
     },
     {
@@ -45673,7 +45673,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Tubi Tondi",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "60,30 X 1,5"
     },
     {
@@ -45684,7 +45684,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Tubi Tondi",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "60,3 X 2"
     },
     {
@@ -45695,7 +45695,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Tubi Tondi",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "63,50 X 1,5"
     },
     {
@@ -45706,7 +45706,7 @@
       "disp": 18.0,
       "isAvailable": true,
       "category": "Tubi Tondi",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "70 X 1,5"
     },
     {
@@ -45717,7 +45717,7 @@
       "disp": 156.0,
       "isAvailable": true,
       "category": "Tubi Tondi",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "70 X 2,0"
     },
     {
@@ -45728,7 +45728,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Tubi Tondi",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "76,1 X 2,0"
     },
     {
@@ -45739,7 +45739,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Tubi Tondi",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "80 X 1,5"
     },
     {
@@ -45750,7 +45750,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Tubi Tondi",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "85 X 1,5"
     },
     {
@@ -45761,7 +45761,7 @@
       "disp": 138.0,
       "isAvailable": true,
       "category": "Tubi Tondi",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "85 X 2,0"
     },
     {
@@ -45772,7 +45772,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Tubi Tondi",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "88,9 X 2"
     },
     {
@@ -45783,7 +45783,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Tubi Tondi",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "101,6 X 1,5"
     },
     {
@@ -45794,7 +45794,7 @@
       "disp": 42.0,
       "isAvailable": true,
       "category": "Tubi Tondi",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "101,6 X 2,0"
     },
     {
@@ -45805,7 +45805,7 @@
       "disp": 48.0,
       "isAvailable": true,
       "category": "Tubi Tondi",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "104 X 2,0"
     },
     {
@@ -45816,7 +45816,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Tubi Tondi",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "108 X 2,0"
     },
     {
@@ -45827,7 +45827,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Tubi Tondi",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "129 X 2,0"
     },
     {
@@ -45838,7 +45838,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Tubi Tondi",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "154 X 2,0"
     },
     {
@@ -45849,7 +45849,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Tubi Tondi",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": ""
     },
     {
@@ -45860,7 +45860,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Tubi Tondi",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "18 X 1,5"
     },
     {
@@ -45871,7 +45871,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Tubi Tondi",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "19,05 X 1,5"
     },
     {
@@ -45882,7 +45882,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Tubi Tondi",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "22 X 1,5"
     },
     {
@@ -45893,7 +45893,7 @@
       "disp": 276.0,
       "isAvailable": true,
       "category": "Tubi Tondi",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "25,4 X 1,5"
     },
     {
@@ -45904,7 +45904,7 @@
       "disp": 174.0,
       "isAvailable": true,
       "category": "Tubi Tondi",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "28 X 1,5"
     },
     {
@@ -45915,7 +45915,7 @@
       "disp": 582.0,
       "isAvailable": true,
       "category": "Tubi Tondi",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "34 X 1,5"
     },
     {
@@ -45926,7 +45926,7 @@
       "disp": 42.0,
       "isAvailable": true,
       "category": "Tubi Tondi",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "38 X 1,5"
     },
     {
@@ -45937,7 +45937,7 @@
       "disp": 378.0,
       "isAvailable": true,
       "category": "Tubi Tondi",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "40 X 1,5"
     },
     {
@@ -45948,7 +45948,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Tubi Tondi",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "42,4 X 2,0"
     },
     {
@@ -45959,7 +45959,7 @@
       "disp": 54.0,
       "isAvailable": true,
       "category": "Tubi Tondi",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "50,8 X 1,5"
     },
     {
@@ -45970,7 +45970,7 @@
       "disp": 258.0,
       "isAvailable": true,
       "category": "Tubi Tondi",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "52 X 1,5"
     },
     {
@@ -45981,7 +45981,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Tubi Tondi",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "60,3  X 1,5"
     },
     {
@@ -45992,7 +45992,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Tubi Tondi",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "60 X 2"
     },
     {
@@ -46003,7 +46003,7 @@
       "disp": 60.0,
       "isAvailable": true,
       "category": "Tubi Tondi",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "70 X 1,5"
     },
     {
@@ -46014,7 +46014,7 @@
       "disp": 54.0,
       "isAvailable": true,
       "category": "Tubi Tondi",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "70 X 2,0"
     },
     {
@@ -46025,7 +46025,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Tubi Tondi",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "76,1 X 1,5"
     },
     {
@@ -46036,7 +46036,7 @@
       "disp": 132.0,
       "isAvailable": true,
       "category": "Tubi Tondi",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "85 X 2,0"
     },
     {
@@ -46047,7 +46047,7 @@
       "disp": 6.0,
       "isAvailable": true,
       "category": "Tubi Tondi",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "88,9 X 3,0"
     },
     {
@@ -46058,7 +46058,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Tubi Tondi",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "101,6 X 1,5"
     },
     {
@@ -46069,7 +46069,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Tubi Tondi",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "101,6 X 2,0"
     },
     {
@@ -46080,7 +46080,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Tubi Tondi",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "104 X 2,0"
     },
     {
@@ -46091,7 +46091,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Tubi Tondi",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "129 X 2,0"
     },
     {
@@ -46102,7 +46102,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Tubi Tondi",
-      "alloy": "AISI 316L",
+      "alloy": "AISI 316",
       "altCode": "154 X 2,0"
     },
     {
@@ -47543,7 +47543,7 @@
       "disp": 9.0,
       "isAvailable": true,
       "category": "Raccorderia / Accessori",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "13,72"
     },
     {
@@ -47576,7 +47576,7 @@
       "disp": 7.0,
       "isAvailable": true,
       "category": "Raccorderia / Accessori",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "21,30"
     },
     {
@@ -47631,7 +47631,7 @@
       "disp": 0.0,
       "isAvailable": false,
       "category": "Raccorderia / Accessori",
-      "alloy": "AISI 304L",
+      "alloy": "AISI 304",
       "altCode": "48,30"
     },
     {

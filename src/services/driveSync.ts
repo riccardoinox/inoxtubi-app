@@ -4,7 +4,7 @@ import { Article, InventoryDataset } from '../types/inventory';
 
 const initialStock = initialStockRaw as InventoryDataset;
 
-const CACHE_KEY = 'inoxtubi_inventory_cache_v3';
+const CACHE_KEY = 'inoxtubi_inventory_cache_v4';
 const LAST_SYNC_KEY = 'inoxtubi_last_sync_time';
 
 export const GOOGLE_DRIVE_EXPORT_URL = 
@@ -45,7 +45,7 @@ export function detectCategory(code: string, desc: string): string {
     return 'Barre Forate';
   }
 
-  // 4. Tubi Senza Saldatura (TSS) - Categoria Dedicata Richiesta
+  // 4. Tubi Senza Saldatura (TSS)
   if (c.startsWith('TSS') || ((d.includes('TUBO') || d.includes('TUBI')) && (d.includes('S/S') || d.includes('SENZA SALD')))) {
     return 'Tubi Senza Saldatura (TSS)';
   }
@@ -119,14 +119,17 @@ export function detectCategory(code: string, desc: string): string {
 
 export function detectAlloy(code: string, desc: string): string {
   const combined = `${code} ${desc}`.toUpperCase();
-  if (combined.includes('316L') || combined.includes('316 L')) return 'AISI 316L';
-  if (combined.includes('316')) return 'AISI 316';
-  if (combined.includes('304L') || combined.includes('304 L')) return 'AISI 304L';
-  if (combined.includes('304')) return 'AISI 304';
+  // Group 316 and 316L under AISI 316
+  if (combined.includes('316L') || combined.includes('316 L') || combined.includes('316') || combined.includes('1.4404') || combined.includes('14404')) {
+    return 'AISI 316';
+  }
+  // Group 304 and 304L under AISI 304
+  if (combined.includes('304L') || combined.includes('304 L') || combined.includes('304') || combined.includes('1.4301') || combined.includes('1.4307')) {
+    return 'AISI 304';
+  }
   if (combined.includes('303')) return 'AISI 303';
   if (combined.includes('430')) return 'AISI 430';
   if (combined.includes('1.4313') || combined.includes('14313')) return '1.4313';
-  if (combined.includes('1.4404') || combined.includes('14404')) return '1.4404';
   if (combined.includes('1.4541')) return '1.4541';
   if (combined.includes('1.4571')) return '1.4571';
   if (combined.includes('DUPLEX') || combined.includes('SAF 2205')) return 'Duplex';
