@@ -42,4 +42,4 @@ export interface QuoteItem {
   notes?: string;
 }
 
-export type TabType = 'home' | 'warehouse' | 'catalog' | 'company' | 'contact';
+export type TabType = 'home' | 'warehouse' | 'catalog' | 'blog' | 'company' | 'contact';

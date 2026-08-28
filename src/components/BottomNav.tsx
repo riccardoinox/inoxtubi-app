@@ -1,5 +1,5 @@
 import React from 'react';
-import { Home, PackageSearch, Layers, Building2, PhoneCall } from 'lucide-react';
+import { Home, PackageSearch, Layers, BookOpen, PhoneCall } from 'lucide-react';
 import { useInventory } from '../context/InventoryContext';
 import { TabType } from '../types/inventory';
 
@@ -15,7 +15,7 @@ export const BottomNav: React.FC = () => {
       badge: availableCount > 0 ? `${availableCount}` : undefined 
     },
     { id: 'catalog', label: 'Prodotti', icon: Layers },
-    { id: 'company', label: 'Azienda', icon: Building2 },
+    { id: 'blog', label: 'Curiosità', icon: BookOpen },
     { id: 'contact', label: 'Contatti', icon: PhoneCall },
   ];
 

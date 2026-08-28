@@ -5,9 +5,12 @@ import {
   Scissors, 
   PhoneCall, 
   ArrowRight, 
-  ChevronRight,
-  ShieldCheck,
-  Clock
+  ChevronRight, 
+  ShieldCheck, 
+  Clock, 
+  BookOpen, 
+  ExternalLink, 
+  Sparkles 
 } from 'lucide-react';
 import { useInventory } from '../context/InventoryContext';
 
@@ -34,7 +37,7 @@ export const HomePage: React.FC = () => {
 
   const productCategories = [
     { title: 'Tubi Tondi', filter: 'Tubi Tondi', desc: 'Saldati laser / TIG / HF AISI 304 e 316', icon: '⭕' },
-    { title: 'Tubi S/S (Senza Saldatura)', filter: 'Tubi Senza Saldatura (TSS)', desc: 'Tubi trafilati a freddo per alta pressione e impianti', icon: '🔘' },
+    { title: 'Tubi S/S (Senza Saldatura)', filter: 'Tubi Senza Saldatura (TSS)', desc: 'Tubi trafilati per alte pressioni e impianti critici', icon: '🔘' },
     { title: 'Tubi Quadri / Rett.', filter: 'Tubi Quadri / Rett.', desc: 'Scatolati e profilati quadri e rettangolari', icon: '🔲' },
     { title: 'Barre Tonde', filter: 'Barre Tonde', desc: 'Barre piene trafilate, pelate e rettificate AISI 303/304/316', icon: '📏' },
     { title: 'Barre Forate', filter: 'Barre Forate', desc: 'Barre forate e tubi meccanici per tornitura', icon: '⭕' },
@@ -44,29 +47,46 @@ export const HomePage: React.FC = () => {
     { title: 'Raccorderia', filter: 'Raccorderia / Accessori', desc: 'Curve, flange, manicotti, riduzioni e tee', icon: '🔩' },
   ];
 
+  const featuredArticles = [
+    {
+      title: 'Acciaio Inox al Limite della Norma: Come Gestire le Tolleranze',
+      desc: 'Approfondimento tecnico su tolleranze dimensionali ISO 1127 ed EN 10029 nei progetti industriali.',
+      url: 'https://inoxtubi.com/tolleranze-acciaio-inox-iso-1127-en-10029/',
+      tag: 'Normative Tecniche'
+    },
+    {
+      title: 'Acciaio, arriva lo scudo Ue: cosa cambia dal 1° luglio 2026',
+      desc: 'Analisi sull\'impatto dei dazi e delle nuove regolamentazioni europee sul mercato dell\'acciaio inossidabile.',
+      url: 'https://inoxtubi.com/scudo-ue-acciaio-dazi-50-2026/',
+      tag: 'Mercato & Normative'
+    }
+  ];
+
   return (
     <div className="pb-24 max-w-7xl mx-auto px-4 sm:px-6 pt-4 space-y-6">
       
-      {/* Hero Section with Official Inoxtubi Graphic */}
+      {/* Hero Section */}
       <div className="relative overflow-hidden rounded-3xl bg-gradient-to-br from-inox-navy via-slate-900 to-inox-blue text-white p-6 sm:p-10 shadow-2xl border border-inox-blue/30">
         
         {/* Background decorative elements */}
         <div className="absolute -top-24 -right-24 w-96 h-96 bg-inox-lightBlue/10 rounded-full blur-3xl pointer-events-none" />
         <div className="absolute -bottom-24 -left-24 w-96 h-96 bg-emerald-500/10 rounded-full blur-3xl pointer-events-none" />
 
-        <div className="relative z-10 max-w-2xl">
+        <div className="relative z-10 max-w-3xl">
           
           <div className="inline-flex items-center space-x-2 px-3 py-1 rounded-full bg-white/10 backdrop-blur-md border border-white/20 text-xs font-semibold text-inox-sky mb-4">
             <span className="w-2 h-2 rounded-full bg-emerald-400 animate-ping mr-1"></span>
             <span>Inoxtubi Padova srl &bull; Specialisti Inox dal 1979</span>
           </div>
 
+          {/* EXACT REQUESTED TITLE */}
           <h1 className="font-display font-extrabold text-2xl sm:text-4xl text-white tracking-tight leading-tight mb-3">
-            Distributore Acciaio Inox AISI 304 / 316 / 303
+            Il Tuo Distributore per l'Acciaio Inossidabile
           </h1>
 
+          {/* EXACT REQUESTED DESCRIPTION */}
           <p className="text-slate-300 text-xs sm:text-sm leading-relaxed mb-6">
-            Commercializziamo tubi tondi, tubi senza saldatura (TSS), lamiere, barre e raccorderia in acciaio inossidabile. Consulta il nostro <strong>Magazzino Online</strong> in tempo reale per verificare immediatamente la disponibilità delle giacenze.
+            Commercializziamo tubi tondi saldati e senza saldatura, lamiere, barre e raccorderia nelle principali leghe AISI e gradi speciali su richiesta. Consulta il nostro <strong>Magazzino Online</strong> in tempo reale per verificare le giacenze e richiedere consegne rapide in Veneto e tutta Italia.
           </p>
 
           {/* Warehouse CTA Search Bar */}
@@ -118,7 +138,7 @@ export const HomePage: React.FC = () => {
             <h2 className="font-display font-bold text-lg text-inox-navy">
               Categorie Prodotti Inox
             </h2>
-            <p className="text-xs text-slate-500">Seleziona una categoria per verificare le giacenze</p>
+            <p className="text-xs text-slate-500">Seleziona una categoria per verificare le giacenze in tempo reale</p>
           </div>
           <button
             onClick={() => {
@@ -153,6 +173,61 @@ export const HomePage: React.FC = () => {
                 <ArrowRight className="w-3 h-3 ml-1 group-hover:translate-x-1 transition-transform" />
               </div>
             </button>
+          ))}
+        </div>
+      </div>
+
+      {/* Curiosità Inossidabili (Blog Showcase) */}
+      <div className="bg-gradient-to-r from-slate-900 to-inox-navy rounded-3xl p-6 text-white border border-inox-blue/30 shadow-md">
+        <div className="flex flex-col md:flex-row md:items-center justify-between gap-4 mb-5 pb-4 border-b border-white/10">
+          <div className="flex items-center space-x-3">
+            <div className="p-3 bg-inox-blue/30 rounded-2xl border border-inox-blue/40 text-inox-lightBlue">
+              <BookOpen className="w-6 h-6" />
+            </div>
+            <div>
+              <span className="text-xs font-bold text-inox-lightBlue uppercase tracking-wider">Dal Nostro Blog Ufficiale</span>
+              <h2 className="font-display font-bold text-lg text-white">
+                Curiosità Inossidabili
+              </h2>
+            </div>
+          </div>
+
+          <a
+            href="https://inoxtubi.com/curiosita-inossidabili/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="px-4 py-2.5 bg-inox-blue hover:bg-inox-lightBlue text-white rounded-xl text-xs font-bold flex items-center justify-center space-x-1.5 shadow-sm transition-all active:scale-95"
+          >
+            <span>Tutti gli Articoli sul Blog</span>
+            <ExternalLink className="w-3.5 h-3.5" />
+          </a>
+        </div>
+
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+          {featuredArticles.map(art => (
+            <a
+              key={art.title}
+              href={art.url}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="p-4 bg-white/5 hover:bg-white/10 rounded-2xl border border-white/10 transition-all group flex flex-col justify-between"
+            >
+              <div>
+                <span className="text-[10px] font-bold px-2 py-0.5 bg-inox-blue/40 text-inox-sky rounded-md border border-inox-blue/40 mb-2 inline-block">
+                  {art.tag}
+                </span>
+                <h3 className="font-bold text-sm text-white group-hover:text-inox-lightBlue transition-colors mb-1.5">
+                  {art.title}
+                </h3>
+                <p className="text-xs text-slate-300 line-clamp-2 leading-relaxed">
+                  {art.desc}
+                </p>
+              </div>
+              <div className="mt-3 pt-2 border-t border-white/10 flex items-center text-xs font-bold text-inox-lightBlue">
+                <span>Leggi sul sito Inoxtubi</span>
+                <ExternalLink className="w-3 h-3 ml-1 group-hover:translate-x-0.5 transition-transform" />
+              </div>
+            </a>
           ))}
         </div>
       </div>

@@ -193,16 +193,16 @@ export const WarehousePage: React.FC = () => {
           )}
         </div>
 
-        {/* Category Horizontal Scroll Chips */}
-        <div className="flex items-center space-x-1.5 overflow-x-auto no-scrollbar py-0.5">
+        {/* Category Wrap Chips (Fixed: wraps cleanly without cutting off) */}
+        <div className="flex flex-wrap items-center gap-1.5 py-1">
           {CATEGORIES.map(cat => (
             <button
               key={cat}
               onClick={() => setSelectedCategory(cat)}
-              className={`px-3 py-1.5 rounded-xl text-xs font-semibold whitespace-nowrap transition-all flex-shrink-0 ${
+              className={`px-3 py-1.5 rounded-xl text-xs font-semibold transition-all ${
                 selectedCategory === cat
-                  ? 'bg-inox-blue text-white shadow-sm'
-                  : 'bg-slate-100 text-slate-600 hover:bg-slate-200'
+                  ? 'bg-inox-blue text-white shadow-sm ring-2 ring-inox-blue/30'
+                  : 'bg-slate-100 text-slate-600 hover:bg-slate-200 hover:text-slate-900'
               }`}
             >
               {cat}
