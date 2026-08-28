@@ -1,26 +1,22 @@
-import React, { useState, useMemo, useRef } from 'react';
+import React, { useState, useMemo } from 'react';
 import { 
   Search, 
   X, 
-  Filter, 
   CheckCircle2, 
   HelpCircle, 
   Star, 
-  UploadCloud, 
-  ExternalLink, 
-  RefreshCw,
-  Layers,
   ArrowUpDown,
-  FileSpreadsheet
+  Lock
 } from 'lucide-react';
 import { useInventory } from '../context/InventoryContext';
 import { ArticleCard } from '../components/ArticleCard';
 import { AvailabilityFilter, CategoryFilter } from '../types/inventory';
-import { GOOGLE_DRIVE_VIEW_URL } from '../services/driveSync';
+import { AdminDashboardModal } from '../components/AdminDashboardModal';
 
 const CATEGORIES: CategoryFilter[] = [
   'Tutti',
   'Tubi Tondi',
+  'Tubi Senza Saldatura (TSS)',
   'Tubi Quadri / Rett.',
   'Barre Tonde',
   'Barre Quadre',
@@ -34,7 +30,7 @@ const CATEGORIES: CategoryFilter[] = [
   'Altri Prodotti'
 ];
 
-const ALLOYS = ['Tutte', 'AISI 304', 'AISI 304L', 'AISI 316', 'AISI 316L', '1.4313', '1.4404', 'Duplex', 'Inox / Altro'];
+const ALLOYS = ['Tutte', 'AISI 304', 'AISI 304L', 'AISI 316', 'AISI 316L', 'AISI 303', '1.4313', '1.4404', 'Duplex', 'Inox / Altro'];
 
 export const WarehousePage: React.FC = () => {
   const { 
@@ -48,17 +44,13 @@ export const WarehousePage: React.FC = () => {
     selectedAlloy,
     setSelectedAlloy,
     favorites,
-    refreshFromDrive,
-    importCustomExcel,
-    isLoading
   } = useInventory();
 
   const [availabilityFilter, setAvailabilityFilter] = useState<AvailabilityFilter>('all');
   const [onlyFavorites, setOnlyFavorites] = useState<boolean>(false);
   const [visibleLimit, setVisibleLimit] = useState<number>(40);
   const [sortBy, setSortBy] = useState<'code' | 'availability' | 'desc'>('availability');
-
-  const fileInputRef = useRef<HTMLInputElement>(null);
+  const [isAdminModalOpen, setIsAdminModalOpen] = useState<boolean>(false);
 
   // Filter and search logic
   const filteredArticles = useMemo(() => {
@@ -118,13 +110,6 @@ export const WarehousePage: React.FC = () => {
     return filteredArticles.slice(0, visibleLimit);
   }, [filteredArticles, visibleLimit]);
 
-  const handleFileUpload = (e: React.ChangeEvent<HTMLInputElement>) => {
-    const file = e.target.files?.[0];
-    if (file) {
-      importCustomExcel(file);
-    }
-  };
-
   const handleClearFilters = () => {
     setSearchQuery('');
     setSelectedCategory('Tutti');
@@ -146,53 +131,24 @@ export const WarehousePage: React.FC = () => {
                 Magazzino Live
               </span>
               <span className="text-xs text-slate-300">
-                Sincronizzato con Google Drive (ARTICO.XLSX)
+                Giacenze in tempo reale Inoxtubi Padova
               </span>
             </div>
             <h1 className="font-display font-extrabold text-xl sm:text-2xl text-white tracking-tight">
-              Giacenze & Disponibilità Inox
+              Consultazione Magazzino Online
             </h1>
             <p className="text-xs sm:text-sm text-slate-300 mt-1 max-w-2xl">
-              Cerca in tempo reale tra oltre <strong className="text-white font-mono">{totalCount.toLocaleString('it-IT')} articoli</strong>. Gli articoli con giacenza mostrano <span className="text-emerald-400 font-bold">"Disponibile"</span>, quelli a zero <span className="text-amber-400 font-bold">"Contattare per info"</span>.
+              Cerca tra oltre <strong className="text-white font-mono">{totalCount.toLocaleString('it-IT')} articoli</strong>. Gli articoli con giacenza mostrano <span className="text-emerald-400 font-bold">"Disponibile"</span> in verde, quelli a zero <span className="text-amber-400 font-bold">"Contattare per info"</span>.
             </p>
           </div>
 
-          <div className="flex flex-wrap items-center gap-2">
+          <div className="flex items-center space-x-2">
             <button
-              onClick={() => refreshFromDrive()}
-              disabled={isLoading}
-              className="px-3 py-2 bg-inox-blue hover:bg-inox-lightBlue rounded-xl text-xs font-bold text-white flex items-center space-x-1.5 shadow-md active:scale-95 transition-all disabled:opacity-50"
+              onClick={() => setIsAdminModalOpen(true)}
+              className="px-3.5 py-2 bg-slate-800/80 hover:bg-slate-700 rounded-xl text-xs font-bold text-slate-200 border border-slate-700 flex items-center space-x-1.5 transition-all shadow-sm active:scale-95"
             >
-              <RefreshCw className={`w-3.5 h-3.5 ${isLoading ? 'animate-spin' : ''}`} />
-              <span>{isLoading ? 'Aggiornamento...' : 'Sincronizza Drive'}</span>
-            </button>
-
-            <a
-              href={GOOGLE_DRIVE_VIEW_URL}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="px-3 py-2 bg-slate-800/80 hover:bg-slate-700 rounded-xl text-xs font-medium text-slate-200 border border-slate-700 flex items-center space-x-1.5 transition-all"
-              title="Apri file ARTICO.XLSX originale su Google Drive"
-            >
-              <FileSpreadsheet className="w-3.5 h-3.5 text-emerald-400" />
-              <span>Apri Foglio Drive</span>
-              <ExternalLink className="w-3 h-3 text-slate-400" />
-            </a>
-
-            {/* Hidden Excel input for warehouse operators */}
-            <input 
-              type="file" 
-              ref={fileInputRef} 
-              onChange={handleFileUpload} 
-              accept=".xlsx,.xls" 
-              className="hidden" 
-            />
-            <button
-              onClick={() => fileInputRef.current?.click()}
-              className="px-2.5 py-2 bg-slate-800/60 hover:bg-slate-700 rounded-xl text-xs font-medium text-slate-300 border border-slate-700"
-              title="Carica un file Excel ARTICO.XLSX locale"
-            >
-              <UploadCloud className="w-3.5 h-3.5" />
+              <Lock className="w-3.5 h-3.5 text-inox-lightBlue" />
+              <span>Gestione Magazzino</span>
             </button>
           </div>
         </div>
@@ -200,7 +156,7 @@ export const WarehousePage: React.FC = () => {
         {/* Stats Pill Row */}
         <div className="grid grid-cols-3 gap-2 mt-4 pt-3 border-t border-white/10 text-center">
           <div className="bg-white/5 rounded-lg py-1.5 px-2">
-            <span className="text-[10px] text-slate-400 uppercase font-semibold">Articoli Totali</span>
+            <span className="text-[10px] text-slate-400 uppercase font-semibold">Articoli a Catalogo</span>
             <p className="font-mono font-bold text-sm sm:text-base text-white">{totalCount.toLocaleString('it-IT')}</p>
           </div>
           <div className="bg-emerald-500/10 rounded-lg py-1.5 px-2 border border-emerald-500/20">
@@ -215,14 +171,14 @@ export const WarehousePage: React.FC = () => {
       </div>
 
       {/* Sticky Search & Filter Bar */}
-      <div className="bg-white rounded-2xl p-3.5 sm:p-4 shadow-sm border border-slate-200 mb-4 sticky top-16 z-30 space-y-3">
+      <div className="bg-white rounded-2xl p-3.5 sm:p-4 shadow-sm border border-slate-200 mb-4 sticky top-16 sm:top-20 z-30 space-y-3">
         
         {/* Search Input */}
         <div className="relative">
           <Search className="w-5 h-5 text-slate-400 absolute left-3.5 top-3" />
           <input
             type="text"
-            placeholder="Cerca per codice (es. ANG304, ACC14313, TUB316, BFO304), descrizione, dimensioni..."
+            placeholder="Cerca per codice (es. TSS304, BTT303, ANG304, ACC14313), descrizione, dimensioni..."
             value={searchQuery}
             onChange={e => setSearchQuery(e.target.value)}
             className="w-full pl-11 pr-10 py-2.5 text-sm rounded-xl border border-slate-300 bg-slate-50 focus:bg-white focus:outline-none focus:border-inox-blue focus:ring-2 focus:ring-inox-blue/20 transition-all font-medium text-slate-800"
@@ -296,7 +252,7 @@ export const WarehousePage: React.FC = () => {
           {/* Alloy Selector & Favorites & Sorting */}
           <div className="flex items-center space-x-2">
             
-            {/* Alloy Dropdown */}
+            {/* Alloy Dropdown with AISI 303 */}
             <select
               value={selectedAlloy}
               onChange={e => setSelectedAlloy(e.target.value)}
@@ -395,6 +351,12 @@ export const WarehousePage: React.FC = () => {
           )}
         </>
       )}
+
+      {/* Admin Protected Modal */}
+      <AdminDashboardModal 
+        isOpen={isAdminModalOpen} 
+        onClose={() => setIsAdminModalOpen(false)} 
+      />
 
     </div>
   );

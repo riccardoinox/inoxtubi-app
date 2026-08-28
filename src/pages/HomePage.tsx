@@ -1,16 +1,12 @@
 import React from 'react';
 import { 
   PackageSearch, 
-  CheckCircle2, 
-  ShieldCheck, 
   Truck, 
   Scissors, 
   PhoneCall, 
   ArrowRight, 
-  FileText, 
   ChevronRight,
-  TrendingUp,
-  Award,
+  ShieldCheck,
   Clock
 } from 'lucide-react';
 import { useInventory } from '../context/InventoryContext';
@@ -37,12 +33,13 @@ export const HomePage: React.FC = () => {
   };
 
   const productCategories = [
-    { title: 'Tubi Tondi', filter: 'Tubi Tondi', desc: 'Saldati EFW/HF e senza saldatura AISI 304/316', icon: '⭕' },
+    { title: 'Tubi Tondi', filter: 'Tubi Tondi', desc: 'Saldati laser / TIG / HF AISI 304 e 316', icon: '⭕' },
+    { title: 'Tubi S/S (Senza Saldatura)', filter: 'Tubi Senza Saldatura (TSS)', desc: 'Tubi trafilati a freddo per alta pressione e impianti', icon: '🔘' },
     { title: 'Tubi Quadri / Rett.', filter: 'Tubi Quadri / Rett.', desc: 'Scatolati e profilati quadri e rettangolari', icon: '🔲' },
-    { title: 'Barre Tonde', filter: 'Barre Tonde', desc: 'Barre tonde piene trafilate, pelate e rettificate', icon: '📏' },
-    { title: 'Barre Forate', filter: 'Barre Forate', desc: 'Tubi spessi e barre forate per meccanica', icon: '🔘' },
-    { title: 'Barre Quadre & Esag.', filter: 'Barre Quadre', desc: 'Barre quadre ed esagonali trafilate e laminate', icon: '📐' },
-    { title: 'Piatti & Angolari', filter: 'Piatti', desc: 'Piatti cesoiati/trafilati e profili angolari', icon: '📏' },
+    { title: 'Barre Tonde', filter: 'Barre Tonde', desc: 'Barre piene trafilate, pelate e rettificate AISI 303/304/316', icon: '📏' },
+    { title: 'Barre Forate', filter: 'Barre Forate', desc: 'Barre forate e tubi meccanici per tornitura', icon: '⭕' },
+    { title: 'Barre Quadre & Esag.', filter: 'Barre Quadre', desc: 'Barre quadre ed esagonali trafilate per meccanica', icon: '📐' },
+    { title: 'Piatti & Angolari', filter: 'Piatti', desc: 'Piatti cesoiati/trafilati e profili angolari', icon: '📐' },
     { title: 'Lamiere Inox', filter: 'Lamiere', desc: 'A caldo e a freddo, finiture 2B, BA, satinate', icon: '📄' },
     { title: 'Raccorderia', filter: 'Raccorderia / Accessori', desc: 'Curve, flange, manicotti, riduzioni e tee', icon: '🔩' },
   ];
@@ -50,10 +47,10 @@ export const HomePage: React.FC = () => {
   return (
     <div className="pb-24 max-w-7xl mx-auto px-4 sm:px-6 pt-4 space-y-6">
       
-      {/* Hero Section */}
+      {/* Hero Section with Official Inoxtubi Graphic */}
       <div className="relative overflow-hidden rounded-3xl bg-gradient-to-br from-inox-navy via-slate-900 to-inox-blue text-white p-6 sm:p-10 shadow-2xl border border-inox-blue/30">
         
-        {/* Background decorative circles */}
+        {/* Background decorative elements */}
         <div className="absolute -top-24 -right-24 w-96 h-96 bg-inox-lightBlue/10 rounded-full blur-3xl pointer-events-none" />
         <div className="absolute -bottom-24 -left-24 w-96 h-96 bg-emerald-500/10 rounded-full blur-3xl pointer-events-none" />
 
@@ -61,22 +58,22 @@ export const HomePage: React.FC = () => {
           
           <div className="inline-flex items-center space-x-2 px-3 py-1 rounded-full bg-white/10 backdrop-blur-md border border-white/20 text-xs font-semibold text-inox-sky mb-4">
             <span className="w-2 h-2 rounded-full bg-emerald-400 animate-ping mr-1"></span>
-            <span>Inoxtubi Padova &bull; Dal 1979</span>
+            <span>Inoxtubi Padova srl &bull; Specialisti Inox dal 1979</span>
           </div>
 
           <h1 className="font-display font-extrabold text-2xl sm:text-4xl text-white tracking-tight leading-tight mb-3">
-            Distributore Ufficiale Acciaio Inox AISI 304 / 316
+            Distributore Acciaio Inox AISI 304 / 316 / 303
           </h1>
 
           <p className="text-slate-300 text-xs sm:text-sm leading-relaxed mb-6">
-            Commercializziamo tubi, lamiere, barre e raccorderia in acciaio inossidabile. Consulta il nostro <strong>Magazzino Online</strong> in tempo reale per verificare immediatamente la disponibilità delle giacenze.
+            Commercializziamo tubi tondi, tubi senza saldatura (TSS), lamiere, barre e raccorderia in acciaio inossidabile. Consulta il nostro <strong>Magazzino Online</strong> in tempo reale per verificare immediatamente la disponibilità delle giacenze.
           </p>
 
           {/* Warehouse CTA Search Bar */}
           <form onSubmit={handleSearchSubmit} className="relative mb-6 max-w-lg">
             <input
               type="text"
-              placeholder="Cerca subito codice articolo nel magazzino..."
+              placeholder="Cerca codice o misura nel magazzino..."
               onChange={e => setSearchQuery(e.target.value)}
               className="w-full pl-4 pr-32 py-3.5 rounded-2xl bg-white text-slate-800 text-xs sm:text-sm font-medium shadow-lg focus:outline-none focus:ring-4 focus:ring-inox-lightBlue/40"
             />
@@ -135,7 +132,7 @@ export const HomePage: React.FC = () => {
           </button>
         </div>
 
-        <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-3">
+        <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-3 gap-3">
           {productCategories.map(cat => (
             <button
               key={cat.title}
@@ -211,7 +208,7 @@ export const HomePage: React.FC = () => {
             <div>
               <h3 className="font-bold text-xs text-inox-navy mb-0.5">Consulenza Tecnica</h3>
               <p className="text-[11px] text-slate-500 leading-relaxed">
-                Assistenza specializzata nella scelta della lega ideale (AISI 304, 316, 1.4313, Duplex).
+                Assistenza specializzata nella scelta della lega ideale (AISI 304, 316, 303, 1.4313, Duplex).
               </p>
             </div>
           </div>

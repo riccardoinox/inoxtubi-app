@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-28T10:00:00.000Z",
+  "updatedAt": "2026-08-28T10:45:00.000Z",
   "totalCount": 4772,
   "availableCount": 1461,
   "sourceUrl": "https://docs.google.com/spreadsheets/d/1hA1YbhFD-8RXD62CfifHBwucvfUBD33R/edit?usp=drive_link",
@@ -49258,7 +49258,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": ""
     },
@@ -49269,7 +49269,7 @@
       "um": "MT",
       "disp": 62.0,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "4  X  1"
     },
@@ -49280,7 +49280,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "5  X  1"
     },
@@ -49291,7 +49291,7 @@
       "um": "MT",
       "disp": 253.0,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "6  X  1"
     },
@@ -49302,7 +49302,7 @@
       "um": "MT",
       "disp": 60.0,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "6  X  1,5"
     },
@@ -49313,7 +49313,7 @@
       "um": "MT",
       "disp": 155.84,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "8  X  1"
     },
@@ -49324,7 +49324,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "8  X  1,5"
     },
@@ -49335,7 +49335,7 @@
       "um": "MT",
       "disp": 6.0,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "8  X  2"
     },
@@ -49346,7 +49346,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "10,20  X  1,24"
     },
@@ -49357,7 +49357,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "10,20  X  2"
     },
@@ -49368,7 +49368,7 @@
       "um": "MT",
       "disp": 191.8,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "10  X  1"
     },
@@ -49379,7 +49379,7 @@
       "um": "MT",
       "disp": 587.42,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "10  X  1,5"
     },
@@ -49390,7 +49390,7 @@
       "um": "MT",
       "disp": 215.38,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "10  X  2"
     },
@@ -49401,7 +49401,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "12,70 X 1,65"
     },
@@ -49412,7 +49412,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "12,70 X 2,11"
     },
@@ -49423,7 +49423,7 @@
       "um": "MT",
       "disp": 335.46,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "12  X  1"
     },
@@ -49434,7 +49434,7 @@
       "um": "MT",
       "disp": 233.05,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "12  X 1,5"
     },
@@ -49445,7 +49445,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "12  X  2"
     },
@@ -49456,7 +49456,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "12  X  3"
     },
@@ -49467,7 +49467,7 @@
       "um": "MT",
       "disp": 13.12,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "13,72  X  1,65"
     },
@@ -49478,7 +49478,7 @@
       "um": "MT",
       "disp": 108.26,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "13,72  X  2,24"
     },
@@ -49489,7 +49489,7 @@
       "um": "MT",
       "disp": 141.16,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "13,72  X  3,02"
     },
@@ -49500,7 +49500,7 @@
       "um": "MT",
       "disp": 5.98,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "14  X  1"
     },
@@ -49511,7 +49511,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "14  X  1,5"
     },
@@ -49522,7 +49522,7 @@
       "um": "MT",
       "disp": 269.93,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "14 X 2"
     },
@@ -49533,7 +49533,7 @@
       "um": "MT",
       "disp": 6.0,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "15  X  1"
     },
@@ -49544,7 +49544,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "15  X  1,5"
     },
@@ -49555,7 +49555,7 @@
       "um": "MT",
       "disp": 18.07,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "15  X  2,0"
     },
@@ -49566,7 +49566,7 @@
       "um": "MT",
       "disp": 5.8,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "16  X  1"
     },
@@ -49577,7 +49577,7 @@
       "um": "MT",
       "disp": 41.81,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "16  X  1,5"
     },
@@ -49588,7 +49588,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "16 X 2"
     },
@@ -49599,7 +49599,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "16 X 2,5"
     },
@@ -49610,7 +49610,7 @@
       "um": "MT",
       "disp": 19.66,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "17,15  X  1,65"
     },
@@ -49621,7 +49621,7 @@
       "um": "MT",
       "disp": 26.92,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "17,15  X  3,20"
     },
@@ -49632,7 +49632,7 @@
       "um": "MT",
       "disp": 64.07,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "17,15  X  2,31"
     },
@@ -49643,7 +49643,7 @@
       "um": "MT",
       "disp": 106.9,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "18  X  1,0"
     },
@@ -49654,7 +49654,7 @@
       "um": "MT",
       "disp": 23.55,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "18  X  1,5"
     },
@@ -49665,7 +49665,7 @@
       "um": "MT",
       "disp": 43.61,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "18  X  2,0"
     },
@@ -49676,7 +49676,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "19,05 X 1,24"
     },
@@ -49687,7 +49687,7 @@
       "um": "MT",
       "disp": 114.81,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "19,05 X 1,65"
     },
@@ -49698,7 +49698,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "19,05 X 2,11"
     },
@@ -49709,7 +49709,7 @@
       "um": "MT",
       "disp": 210.15,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "20  X  1"
     },
@@ -49720,7 +49720,7 @@
       "um": "MT",
       "disp": 48.0,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "20  X  1,5"
     },
@@ -49731,7 +49731,7 @@
       "um": "MT",
       "disp": 66.0,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "20  X  2"
     },
@@ -49742,7 +49742,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "20  X  2,5"
     },
@@ -49753,7 +49753,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "21,34  X  1,65"
     },
@@ -49764,7 +49764,7 @@
       "um": "MT",
       "disp": 46.25,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "21,34  X  2,11"
     },
@@ -49775,7 +49775,7 @@
       "um": "MT",
       "disp": 125.16,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "21,34  X  2,77"
     },
@@ -49786,7 +49786,7 @@
       "um": "MT",
       "disp": 105.97,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "21,34  X  3,73"
     },
@@ -49797,7 +49797,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "21,34  X  4,78"
     },
@@ -49808,7 +49808,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "22  X  1"
     },
@@ -49819,7 +49819,7 @@
       "um": "MT",
       "disp": 48.0,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "22  X  1,5"
     },
@@ -49830,7 +49830,7 @@
       "um": "MT",
       "disp": 11.98,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "22  X  2"
     },
@@ -49841,7 +49841,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "25  X  3,0"
     },
@@ -49852,7 +49852,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "25  X  1,5"
     },
@@ -49863,7 +49863,7 @@
       "um": "MT",
       "disp": 18.0,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "25  X  2"
     },
@@ -49874,7 +49874,7 @@
       "um": "MT",
       "disp": 11.84,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "25  X  2,5"
     },
@@ -49885,7 +49885,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "26,67  X  1,65"
     },
@@ -49896,7 +49896,7 @@
       "um": "MT",
       "disp": 224.88,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "26,67  X  2,11"
     },
@@ -49907,7 +49907,7 @@
       "um": "MT",
       "disp": 104.0,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "26,67  X  2,87"
     },
@@ -49918,7 +49918,7 @@
       "um": "MT",
       "disp": 128.98,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "26,67  X  3,91"
     },
@@ -49929,7 +49929,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "26,67  X  5,56"
     },
@@ -49940,7 +49940,7 @@
       "um": "MT",
       "disp": 18.0,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "28 X 1,5"
     },
@@ -49951,7 +49951,7 @@
       "um": "MT",
       "disp": 324.27,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "28 X 2,0"
     },
@@ -49962,7 +49962,7 @@
       "um": "MT",
       "disp": 17.99,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "30 X 2"
     },
@@ -49973,7 +49973,7 @@
       "um": "MT",
       "disp": 36.0,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "30 X 3"
     },
@@ -49984,7 +49984,7 @@
       "um": "MT",
       "disp": 13.25,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "33,40  X  1,65"
     },
@@ -49995,7 +49995,7 @@
       "um": "MT",
       "disp": 107.17,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "33,40  X  2,77"
     },
@@ -50006,7 +50006,7 @@
       "um": "MT",
       "disp": 167.28,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "33,40  X  3,38"
     },
@@ -50017,7 +50017,7 @@
       "um": "MT",
       "disp": 36.0,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "33,40  X  4,55"
     },
@@ -50028,7 +50028,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "33,40  X  6,35"
     },
@@ -50039,7 +50039,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "35 X 2"
     },
@@ -50050,7 +50050,7 @@
       "um": "MT",
       "disp": 5.95,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "38 X 3"
     },
@@ -50061,7 +50061,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "38 X 4"
     },
@@ -50072,7 +50072,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "42,00  X  3,00"
     },
@@ -50083,7 +50083,7 @@
       "um": "MT",
       "disp": 118.05,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "42,16  X  2,77"
     },
@@ -50094,7 +50094,7 @@
       "um": "MT",
       "disp": 108.98,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "42,16  X  3,56"
     },
@@ -50105,7 +50105,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "42,16  X  4,85"
     },
@@ -50116,7 +50116,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "42,16  X  6,35"
     },
@@ -50127,7 +50127,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "44,50  X  2,00"
     },
@@ -50138,7 +50138,7 @@
       "um": "MT",
       "disp": 78.42,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "48,26  X  2,77"
     },
@@ -50149,7 +50149,7 @@
       "um": "MT",
       "disp": 145.94,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "48,26  X  3,68"
     },
@@ -50160,7 +50160,7 @@
       "um": "MT",
       "disp": 6.24,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "48,26  X  5,08"
     },
@@ -50171,7 +50171,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "48,26  X  7,14"
     },
@@ -50182,7 +50182,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "60,33  X  11,07"
     },
@@ -50193,7 +50193,7 @@
       "um": "MT",
       "disp": 130.66,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "60,33  X  2,77"
     },
@@ -50204,7 +50204,7 @@
       "um": "MT",
       "disp": 112.56,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "60,33  X  3,91"
     },
@@ -50215,7 +50215,7 @@
       "um": "MT",
       "disp": 23.34,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "60,33  X  5,54"
     },
@@ -50226,7 +50226,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "60,33  X  8,74"
     },
@@ -50237,7 +50237,7 @@
       "um": "MT",
       "disp": 119.46,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "73,03  X  3,05"
     },
@@ -50248,7 +50248,7 @@
       "um": "MT",
       "disp": 41.11,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "73,03  X  5,16"
     },
@@ -50259,7 +50259,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "73,03  X  7,01"
     },
@@ -50270,7 +50270,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "76,10  X  2,00"
     },
@@ -50281,7 +50281,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "76,10  X  2,90"
     },
@@ -50292,7 +50292,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "76,10  X  3,60"
     },
@@ -50303,7 +50303,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "76,10  X  6,30"
     },
@@ -50314,7 +50314,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "88,90  X  11,13"
     },
@@ -50325,7 +50325,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "88,90  X  15,24"
     },
@@ -50336,7 +50336,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "88,90  X  2,00"
     },
@@ -50347,7 +50347,7 @@
       "um": "MT",
       "disp": 117.58,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "88,90  X  3,05"
     },
@@ -50358,7 +50358,7 @@
       "um": "MT",
       "disp": 20.36,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "88,90  X  5,49"
     },
@@ -50369,7 +50369,7 @@
       "um": "MT",
       "disp": 5.78,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "88,90  X  5,49"
     },
@@ -50380,7 +50380,7 @@
       "um": "MT",
       "disp": 48.05,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "88,90  X  7,62"
     },
@@ -50391,7 +50391,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "101,60  X  3,05"
     },
@@ -50402,7 +50402,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "101,60  X  5,74"
     },
@@ -50413,7 +50413,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "101,60  X  8,08"
     },
@@ -50424,7 +50424,7 @@
       "um": "MT",
       "disp": 63.65,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "114,30  X  3,05"
     },
@@ -50435,7 +50435,7 @@
       "um": "MT",
       "disp": 17.37,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "114,30  X  6,02"
     },
@@ -50446,7 +50446,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "114,30  X  8,56"
     },
@@ -50457,7 +50457,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "114,30  X  4,50"
     },
@@ -50468,7 +50468,7 @@
       "um": "MT",
       "disp": 29.03,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "141,30  X  3,40"
     },
@@ -50479,7 +50479,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "141,30  X  6,55"
     },
@@ -50490,7 +50490,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "141,30  X  9,53"
     },
@@ -50501,7 +50501,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "141,30  X  15,88"
     },
@@ -50512,7 +50512,7 @@
       "um": "MT",
       "disp": 6.41,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "168,28  X  3,40"
     },
@@ -50523,7 +50523,7 @@
       "um": "MT",
       "disp": -0.1,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "168,28  X  7,11"
     },
@@ -50534,7 +50534,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "168,28  X  10,97"
     },
@@ -50545,7 +50545,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "219,10  X  12,70"
     },
@@ -50556,7 +50556,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "219,10  X  3,76"
     },
@@ -50567,7 +50567,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "219,10  X  6,35"
     },
@@ -50578,7 +50578,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "219,10  X  8,18"
     },
@@ -50589,7 +50589,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "273,0  X  12,70"
     },
@@ -50600,7 +50600,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "273,0  X  4,19"
     },
@@ -50611,7 +50611,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "273,0  X  6,35"
     },
@@ -50622,7 +50622,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "273,0  X  9,27"
     },
@@ -50633,7 +50633,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 304",
       "altCode": "323,9  X  9,52"
     },
@@ -50644,7 +50644,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "Inox / Altro",
       "altCode": ""
     },
@@ -50655,7 +50655,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "Inox / Altro",
       "altCode": "21,34  X  2,77"
     },
@@ -50666,7 +50666,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "Inox / Altro",
       "altCode": "26,67  X  2,87"
     },
@@ -50677,7 +50677,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "Inox / Altro",
       "altCode": "42,16  X  3,56"
     },
@@ -50688,7 +50688,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "Inox / Altro",
       "altCode": "48,26  X  5,08"
     },
@@ -50699,7 +50699,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "Inox / Altro",
       "altCode": "88,90  X  5,49"
     },
@@ -50710,7 +50710,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "Inox / Altro",
       "altCode": "114,30  X  8,56"
     },
@@ -50721,7 +50721,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "Inox / Altro",
       "altCode": "114,30  X  6,02"
     },
@@ -50732,7 +50732,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "Inox / Altro",
       "altCode": "33,70  X  3,38"
     },
@@ -50743,7 +50743,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "Inox / Altro",
       "altCode": "48,30  X  3,68"
     },
@@ -50754,7 +50754,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "Inox / Altro",
       "altCode": "60,33  X  3,91"
     },
@@ -50765,7 +50765,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "Inox / Altro",
       "altCode": "168,30  X  7,11"
     },
@@ -50776,7 +50776,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": ""
     },
@@ -50787,7 +50787,7 @@
       "um": "MT",
       "disp": -0.04,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "4  X  1"
     },
@@ -50798,7 +50798,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "5  X  1"
     },
@@ -50809,7 +50809,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "6,35  X  0,89"
     },
@@ -50820,7 +50820,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "6,35  X  1,24"
     },
@@ -50831,7 +50831,7 @@
       "um": "MT",
       "disp": 119.82,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "6  X  1"
     },
@@ -50842,7 +50842,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "6  X  1,5"
     },
@@ -50853,7 +50853,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "7  X  1"
     },
@@ -50864,7 +50864,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "7  X  1,5"
     },
@@ -50875,7 +50875,7 @@
       "um": "MT",
       "disp": 185.92,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "8  X  1"
     },
@@ -50886,7 +50886,7 @@
       "um": "MT",
       "disp": 78.0,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "8  X  1,5"
     },
@@ -50897,7 +50897,7 @@
       "um": "MT",
       "disp": 30.0,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "8  X  2,0"
     },
@@ -50908,7 +50908,7 @@
       "um": "MT",
       "disp": 143.93,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "10  X  1"
     },
@@ -50919,7 +50919,7 @@
       "um": "MT",
       "disp": 84.0,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "10  X 1,5"
     },
@@ -50930,7 +50930,7 @@
       "um": "MT",
       "disp": 305.35,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "10  X 2,0"
     },
@@ -50941,7 +50941,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "12,70 X 2,11"
     },
@@ -50952,7 +50952,7 @@
       "um": "MT",
       "disp": 95.56,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "12  X  1"
     },
@@ -50963,7 +50963,7 @@
       "um": "MT",
       "disp": -54.84,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "12  X  1,5"
     },
@@ -50974,7 +50974,7 @@
       "um": "MT",
       "disp": 24.66,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "12  X  2"
     },
@@ -50985,7 +50985,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "12  X  2,5"
     },
@@ -50996,7 +50996,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "13,72  X  1,65"
     },
@@ -51007,7 +51007,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "13,72  X  2,24"
     },
@@ -51018,7 +51018,7 @@
       "um": "MT",
       "disp": 5.58,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "13,72  X  3,02"
     },
@@ -51029,7 +51029,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "14 X 1"
     },
@@ -51040,7 +51040,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "14 X 1,5"
     },
@@ -51051,7 +51051,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "14 X 2"
     },
@@ -51062,7 +51062,7 @@
       "um": "MT",
       "disp": 149.96,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "15  X  1,5"
     },
@@ -51073,7 +51073,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "15  X  2,0"
     },
@@ -51084,7 +51084,7 @@
       "um": "MT",
       "disp": 54.0,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "16  X  1"
     },
@@ -51095,7 +51095,7 @@
       "um": "MT",
       "disp": 60.0,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "16  X  1,5"
     },
@@ -51106,7 +51106,7 @@
       "um": "MT",
       "disp": 11.98,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "16  X  2,0"
     },
@@ -51117,7 +51117,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "16  X  2,5"
     },
@@ -51128,7 +51128,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "17,15  X  1,65"
     },
@@ -51139,7 +51139,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "17,15  X  3,20"
     },
@@ -51150,7 +51150,7 @@
       "um": "MT",
       "disp": 26.81,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "17,15  X  2,31"
     },
@@ -51161,7 +51161,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "18  X  1,0"
     },
@@ -51172,7 +51172,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "18  X  1,5"
     },
@@ -51183,7 +51183,7 @@
       "um": "MT",
       "disp": 38.74,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "18  X  2,0"
     },
@@ -51194,7 +51194,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "18  X  3,0"
     },
@@ -51205,7 +51205,7 @@
       "um": "MT",
       "disp": 23.83,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "19,05 X 1,65"
     },
@@ -51216,7 +51216,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "19,05 X 2,11"
     },
@@ -51227,7 +51227,7 @@
       "um": "MT",
       "disp": 6.0,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "20  X  1,0"
     },
@@ -51238,7 +51238,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "20  X  1,5"
     },
@@ -51249,7 +51249,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "20  X  2,5"
     },
@@ -51260,7 +51260,7 @@
       "um": "MT",
       "disp": 23.98,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "20  X  2"
     },
@@ -51271,7 +51271,7 @@
       "um": "MT",
       "disp": 6.0,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "20  X  3"
     },
@@ -51282,7 +51282,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "21,34  X  1,65"
     },
@@ -51293,7 +51293,7 @@
       "um": "MT",
       "disp": 11.37,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "21,34  X  2,11"
     },
@@ -51304,7 +51304,7 @@
       "um": "MT",
       "disp": 77.88,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "21,34  X  2,77"
     },
@@ -51315,7 +51315,7 @@
       "um": "MT",
       "disp": 5.78,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "21,34  X  3,73"
     },
@@ -51326,7 +51326,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "21,34  X  4,78"
     },
@@ -51337,7 +51337,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "22  X  1,5"
     },
@@ -51348,7 +51348,7 @@
       "um": "MT",
       "disp": 41.96,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "22  X  2,0"
     },
@@ -51359,7 +51359,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "22  X  3,0"
     },
@@ -51370,7 +51370,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "25  X  1,5"
     },
@@ -51381,7 +51381,7 @@
       "um": "MT",
       "disp": 11.84,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "25  X  2,0"
     },
@@ -51392,7 +51392,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "25  X  2,5"
     },
@@ -51403,7 +51403,7 @@
       "um": "MT",
       "disp": 17.96,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "25  X  3,0"
     },
@@ -51414,7 +51414,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "26,67  X  1,65"
     },
@@ -51425,7 +51425,7 @@
       "um": "MT",
       "disp": 14.79,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "26,67  X  2,11"
     },
@@ -51436,7 +51436,7 @@
       "um": "MT",
       "disp": 5.58,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "26,67  X  2,87"
     },
@@ -51447,7 +51447,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "26,67  X  3,91"
     },
@@ -51458,7 +51458,7 @@
       "um": "MT",
       "disp": 62.75,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "26,67  X  5,56"
     },
@@ -51469,7 +51469,7 @@
       "um": "MT",
       "disp": 24.0,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "28,00  X  2,00"
     },
@@ -51480,7 +51480,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "28,00  X  2,50"
     },
@@ -51491,7 +51491,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "28,00  X  3,00"
     },
@@ -51502,7 +51502,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "28,00  X  1,50"
     },
@@ -51513,7 +51513,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "30  X  2,0"
     },
@@ -51524,7 +51524,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "30  X  3,00"
     },
@@ -51535,7 +51535,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "30  X  4,0"
     },
@@ -51546,7 +51546,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "33,40  X  1,65"
     },
@@ -51557,7 +51557,7 @@
       "um": "MT",
       "disp": 33.46,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "33,40  X  2,77"
     },
@@ -51568,7 +51568,7 @@
       "um": "MT",
       "disp": 41.38,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "33,40  X  3,38"
     },
@@ -51579,7 +51579,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "33,40  X  4,55"
     },
@@ -51590,7 +51590,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "33,40  X  6,35"
     },
@@ -51601,7 +51601,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "33,70  X  2,60"
     },
@@ -51612,7 +51612,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "35 X 3"
     },
@@ -51623,7 +51623,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "38  X  4,0"
     },
@@ -51634,7 +51634,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "38 X 5"
     },
@@ -51645,7 +51645,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "42,00  X  3,00"
     },
@@ -51656,7 +51656,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "42,16  X  2,77"
     },
@@ -51667,7 +51667,7 @@
       "um": "MT",
       "disp": 14.83,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "42,16  X  3,56"
     },
@@ -51678,7 +51678,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "42,16  X  4,85"
     },
@@ -51689,7 +51689,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "42,16  X  6,35"
     },
@@ -51700,7 +51700,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "42,40  X  2,00"
     },
@@ -51711,7 +51711,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "48,26  X  1,65"
     },
@@ -51722,7 +51722,7 @@
       "um": "MT",
       "disp": 17.93,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "48,26  X  2,77"
     },
@@ -51733,7 +51733,7 @@
       "um": "MT",
       "disp": 19.12,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "48,26  X  3,68"
     },
@@ -51744,7 +51744,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "48,26  X  5,08"
     },
@@ -51755,7 +51755,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "48,26  X  7,14"
     },
@@ -51766,7 +51766,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "48,30  X  6,30"
     },
@@ -51777,7 +51777,7 @@
       "um": "MT",
       "disp": 32.24,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "60,33  X  2,77"
     },
@@ -51788,7 +51788,7 @@
       "um": "MT",
       "disp": 29.98,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "60,33  X  3,91"
     },
@@ -51799,7 +51799,7 @@
       "um": "MT",
       "disp": 0.65,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "60,33  X  5,54"
     },
@@ -51810,7 +51810,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "60,33  X  8,74"
     },
@@ -51821,7 +51821,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "70,00  X  2,90"
     },
@@ -51832,7 +51832,7 @@
       "um": "MT",
       "disp": 12.18,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "73,03  X  3,05"
     },
@@ -51843,7 +51843,7 @@
       "um": "MT",
       "disp": 12.11,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "73,03  X  5,16"
     },
@@ -51854,7 +51854,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "73,03  X  7,01"
     },
@@ -51865,7 +51865,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "76,10  X  2,90"
     },
@@ -51876,7 +51876,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "76,10  X  3,65"
     },
@@ -51887,7 +51887,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "76,10  X  6,30"
     },
@@ -51898,7 +51898,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "88,90  X  3,05"
     },
@@ -51909,7 +51909,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "88,90  X  3,20"
     },
@@ -51920,7 +51920,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "88,90  X  5,49"
     },
@@ -51931,7 +51931,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "88,90  X  7,62"
     },
@@ -51942,7 +51942,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "88,90  X  11,13"
     },
@@ -51953,7 +51953,7 @@
       "um": "MT",
       "disp": 4.76,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "101,60  X  3,05"
     },
@@ -51964,7 +51964,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "101,60  X  5,74"
     },
@@ -51975,7 +51975,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "101,60  X  8,08"
     },
@@ -51986,7 +51986,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "114,30  X  3,05"
     },
@@ -51997,7 +51997,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "114,30  X  3,60"
     },
@@ -52008,7 +52008,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "114,30  X  6,02"
     },
@@ -52019,7 +52019,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "114,30  X  8,56"
     },
@@ -52030,7 +52030,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "139,70 X 4,00"
     },
@@ -52041,7 +52041,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "141,30 X 3,40"
     },
@@ -52052,7 +52052,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "141,30 X 6,55"
     },
@@ -52063,7 +52063,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "141,30 X 9,52"
     },
@@ -52074,7 +52074,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "168,30 X 10,97"
     },
@@ -52085,7 +52085,7 @@
       "um": "MT",
       "disp": 4.02,
       "isAvailable": true,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "168,30 X 3,40"
     },
@@ -52096,7 +52096,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "168,30 X 4,50"
     },
@@ -52107,7 +52107,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "168,30 X 7,11"
     },
@@ -52118,7 +52118,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "168,30 X 5,00"
     },
@@ -52129,7 +52129,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "219,08 X 12,7"
     },
@@ -52140,7 +52140,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "219,08 X 3,76"
     },
@@ -52151,7 +52151,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "219,08 X 8,18"
     },
@@ -52162,7 +52162,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "219,10 X 6,30"
     },
@@ -52173,7 +52173,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "273 X 6,35"
     },
@@ -52184,7 +52184,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "273 X 12,7"
     },
@@ -52195,7 +52195,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "273 X 9,27"
     },
@@ -52206,7 +52206,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "323,9 X 12,7"
     },
@@ -52217,7 +52217,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "25,00  X  2,50"
     },
@@ -52228,7 +52228,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "28,00  X  2,00"
     },
@@ -52239,7 +52239,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "30,00  X  2,60"
     },
@@ -52250,7 +52250,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "30,00  X  3,00"
     },
@@ -52261,7 +52261,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "38,00  X  4,00"
     },
@@ -52272,7 +52272,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "AISI 316",
       "altCode": "38,00  X  5,00"
     },
@@ -52283,7 +52283,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "Inox / Altro",
       "altCode": ""
     },
@@ -52294,7 +52294,7 @@
       "um": "MT",
       "disp": 0.0,
       "isAvailable": false,
-      "category": "Tubi Tondi",
+      "category": "Tubi Senza Saldatura (TSS)",
       "alloy": "Inox / Altro",
       "altCode": ""
     },

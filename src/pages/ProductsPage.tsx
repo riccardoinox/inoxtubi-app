@@ -1,5 +1,5 @@
 import React from 'react';
-import { Download, FileText, ChevronRight, Check, PackageSearch, ExternalLink } from 'lucide-react';
+import { Download, PackageSearch } from 'lucide-react';
 import { useInventory } from '../context/InventoryContext';
 
 export const ProductsPage: React.FC = () => {
@@ -13,28 +13,37 @@ export const ProductsPage: React.FC = () => {
 
   const productsList = [
     {
-      title: 'Tubi Tondi in Acciaio Inox',
+      title: 'Tubi Tondi Saldati in Acciaio Inox',
       category: 'Tubi Tondi',
-      standard: 'EN 10217-7 / EN 10216-5 / ASTM A312',
+      standard: 'EN 10217-7 / ASTM A312 / ASTM A249',
       alloys: ['AISI 304 / 304L (1.4301 / 1.4307)', 'AISI 316 / 316L (1.4401 / 1.4404)'],
-      description: 'Tubi tondi saldati laser / TIG / HF e tubi senza saldatura (trafilati a freddo). Idonei per condotte industriali, chimiche, alimentari e arredamento.',
+      description: 'Tubi tondi saldati longitudinalmente laser / TIG / HF, ricotti o crudi. Idonei per condotte industriali, chimiche, alimentari e arredamento.',
       finishes: ['Grecato', 'Spazzolato', 'Satinato Grana 240/320', 'Lucido a Specchio BA'],
-      dimensions: 'Diametri da 6 mm a oltre 508 mm, spessori da 1 mm a 12 mm.'
+      dimensions: 'Diametri da 6 mm a oltre 508 mm, spessori da 1 mm a 6 mm.'
+    },
+    {
+      title: 'Tubi Senza Saldatura (TSS)',
+      category: 'Tubi Senza Saldatura (TSS)',
+      standard: 'EN 10216-5 / ASTM A312 / ASTM A269',
+      alloys: ['AISI 304 / 304L', 'AISI 316 / 316L (1.4404)'],
+      description: 'Tubi senza saldatura trafilati a freddo o laminati a caldo, ideali per alta pressione, strumentazione, impianti oleodinamici e chimici critici.',
+      finishes: ['Ricotto decapato', 'Trafilato a freddo'],
+      dimensions: 'Diametri da 4 mm a 219 mm con svariati spessori pesanti.'
     },
     {
       title: 'Tubi Quadri e Rettangolari',
       category: 'Tubi Quadri / Rett.',
       standard: 'EN 10296-2 / EN 10088',
       alloys: ['AISI 304 / 304L', 'AISI 316 / 316L'],
-      description: 'Scatolati e profilati quadri e rettangolari con saldatura longitudinale HF/TIG, ideali per carpenteria metallica, strutture portanti, serramenti e design.',
+      description: 'Scatolati e profilati quadri e rettangolari con saldatura HF/TIG, ideali per carpenteria metallica, strutture portanti, serramenti e design.',
       finishes: ['Grezzo', 'Satinato Grana 240/320', 'Scotch-Brite', 'Lucidato'],
       dimensions: 'Quadri da 10x10 a 200x200 mm, Rettangolari da 20x10 a 200x100 mm.'
     },
     {
-      title: 'Barre Tonde Inox',
+      title: 'Barre Tonde Inox (AISI 303 / 304 / 316)',
       category: 'Barre Tonde',
       standard: 'EN 10088-3 / EN 10272 / ASTM A276',
-      alloys: ['AISI 304 / 304L', 'AISI 303 (facile lavorabilità)', 'AISI 316L', '1.4313 martensitico'],
+      alloys: ['AISI 303 (alta lavorabilità per tornitura)', 'AISI 304 / 304L', 'AISI 316L', '1.4313 martensitico'],
       description: 'Barre piene trafilate a freddo (tolleranza h9/h11) o pelate/rullate (tolleranza k12/h11) per lavorazioni meccaniche di precisione ad asportazione truciolo.',
       finishes: ['Trafilato h9', 'Pelato rullato k12/h11', 'Rettificato h8/h7'],
       dimensions: 'Diametri da 3 mm a oltre 350 mm.'

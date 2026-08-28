@@ -21,6 +21,7 @@ export interface InventoryDataset {
 export type CategoryFilter = 
   | 'Tutti'
   | 'Tubi Tondi'
+  | 'Tubi Senza Saldatura (TSS)'
   | 'Tubi Quadri / Rett.'
   | 'Barre Tonde'
   | 'Barre Quadre'
